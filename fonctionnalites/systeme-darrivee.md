@@ -28,11 +28,9 @@ Une fois la commande exécutée, vous devez vous servir du menu (voir image #3) 
 \
 Pour configurer un élément de votre message d'arrivée, vous devez sélectionner l'option (voir image #4) que vous souhaitez configurer à votre manière.\
 \
-Pour mon exemple, je vais personnaliser le titre de mon embed d'arrivée, je vais donc sélectionner la première option (voir image #5) une fois l'option sélectionnée, je vais devoir indiquer mon propre titre qui donc, remplacera celui de base (voir image #6).&#x20;
-
-{% hint style="info" %}
-La manipulation indiqué lors de mon exemple ci-dessus, reste la même pour toutes les autres options de configuration de votre message d'arrivée.
-{% endhint %}
+Pour mon exemple, je vais personnaliser le titre de mon embed d'arrivée, je vais donc sélectionner la première option (voir image #5) une fois l'option sélectionnée, je vais devoir indiquer mon propre titre qui donc, remplacera celui de base (voir image #6). \
+\
+La manipulation indiqué l'exemple ci-dessus, reste la même pour toutes les autres options de configuration de votre message d'arrivée.
 
 {% hint style="danger" %}
 Lors la configuration de votre message d'arrivée est très fortement recommandé de consulté le [**guide des variables**](../autres/variables.md).
@@ -52,8 +50,8 @@ Le système d'arrivée ne vous convient plus, et vous vous demandez comment le d
 \
 Une fois le panel de configuration sous la main, vous n'avez qu'à cliquer sur le bouton "Désactiver le message d'arrivée" (voir image #7) une fois le bouton enclenché, John-Bot confirmera la désactivation du système d'arrivée (voir image #8).
 
-{% hint style="success" %}
-Si le système d'arrivée ne vous convient plus, notre équipe se ferait un plaisir de savoir pourquoi il ne vous convient plus afin d'améliorer ce système ! Vous pouvez nous contacter via notre adresse e-mail de contact [**team@johnbot.app**](mailto:team@johnbot.app) **** ou bien via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
+{% hint style="info" %}
+Si le système d'arrivée ne vous convient plus, notre équipe se ferait un plaisir de savoir pourquoi il ne vous convient plus afin d'améliorer ce système !
 {% endhint %}
 
 ![Image #7](../.gitbook/assets/désactiverarrivee.png)
