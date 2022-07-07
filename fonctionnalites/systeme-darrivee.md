@@ -12,9 +12,9 @@ Pour débuter la configuration du système d'arrivée, vous devez ajouter John-B
 \
 Pour ce qui de l'activation du système d'arrivée, vous n'avez qu'à cliquer sur le bouton "Activer le message d'arrivée" (voir image #1) une fois le bouton enclenché, vous devez indiquer le salon qui recevra les messages d'arrivée (voir image #2). Voilà ! Le système d'arrivée est activé sur votre serveur ! &#x20;
 
-![Image #1](<../.gitbook/assets/Capture d’écran 2022-07-05 195532.png>)
+![Image #1](../.gitbook/assets/activerarrive.png)
 
-![Image #2](../.gitbook/assets/fewgwegwe.png)
+![Image #2](../.gitbook/assets/salonarrivee.png)
 
 {% hint style="danger" %}
 Assurez-vous que John-Bot ait la permission d'envoyer le message d'arrivée dans le salon configuré.
@@ -38,10 +38,20 @@ La manipulation indiqué lors de mon exemple ci-dessus, reste la même pour tout
 Lors la configuration de votre message d'arrivée est très fortement recommandé de consulté le [**guide des variables**](../autres/variables.md).
 {% endhint %}
 
-![Image #3](<../.gitbook/assets/Capture d’écran 2022-07-05 232614.png>)
+![Image #3](../.gitbook/assets/configarrivee.png)
 
-![Image #4](../.gitbook/assets/eqqweqwe.png)
+![Image #4](broken-reference)
 
-![Image #5](../.gitbook/assets/dugdgudgwd.png)
+![Image #5](../.gitbook/assets/deftitrearrivee.png)
 
-![Image #6](../.gitbook/assets/dwefwefw.png)
+![Image #6](../.gitbook/assets/titrearrivee.png)
+
+## :x: Désactivation du système d'arrivée
+
+Le système d'arrivée ne vous convient plus, et vous vous demandez comment le désactiver ? Si c'est le cas vous en saurez plus après avoir lu ce rapide texte. Si ce n'est pas déjà fait, vous devez exécutez la commande `/joinpanel` <mark style="color:blue;"></mark> ou encore `john joinpanel` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée. \
+\
+Une fois le panel de configuration sous la main, vous n'avez qu'à cliquer sur le bouton "Désactiver le message d'arrivée" (voir image #7) une fois le bouton enclenché, John-Bot confirmera la désactivation du système d'arrivée (voir image #8).
+
+![Image #7](../.gitbook/assets/désactiverarrivee.png)
+
+![Image #8](../.gitbook/assets/msgdesactarrivee.png)
