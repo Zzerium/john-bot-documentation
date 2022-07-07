@@ -34,6 +34,10 @@ Pour mon exemple, je vais personnaliser le titre de mon embed d'arrivée, je vai
 La manipulation indiqué lors de mon exemple ci-dessus, reste la même pour toutes les autres options de configuration de votre message d'arrivée.
 {% endhint %}
 
+{% hint style="danger" %}
+Lors la configuration de votre message d'arrivée est très fortement recommandé de consulté le [**guide des variables**](../autres/variables.md).
+{% endhint %}
+
 ![Image #3](<../.gitbook/assets/Capture d’écran 2022-07-05 232614.png>)
 
 ![Image #4](../.gitbook/assets/eqqweqwe.png)
