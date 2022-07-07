@@ -7,7 +7,7 @@ description: >-
 # Variables
 
 {% hint style="info" %}
-Attention ! Ces variables sont seulement utilisable pour configuration des messages d'arrivée et de départ.&#x20;
+Attention ! Ces variables sont seulement utilisables pour la configuration des messages d'arrivée et de départ.&#x20;
 {% endhint %}
 
 | Liste des variables | Description des variables                                                                           |   |   |
