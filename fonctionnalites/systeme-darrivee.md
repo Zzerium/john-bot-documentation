@@ -8,7 +8,7 @@ description: >-
 
 ## :wave: Mise en place du système d'arrivée
 
-Pour débuter la configuration du système d'arrivée, vous devrez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), un fois cela fait exécutez la commande `/joinpanel` <mark style="color:blue;"></mark> ou encore `john joinpanel` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée.\
+Pour débuter la configuration du système d'arrivée, vous devrez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/joinpanel` <mark style="color:blue;"></mark> ou encore `john joinpanel` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée.\
 \
 Pour ce qui de l'activation du système d'arrivée, vous n'avez qu'à cliquer sur le bouton "Activer le message d'arrivée" (voir image #1) une fois le bouton enclenché, vous devrez indiquer le salon qui recevra les messages d'arrivée (voir image #2). Voilà ! Le système d'arrivée est activé sur votre serveur ! &#x20;
 
@@ -17,7 +17,7 @@ Pour ce qui de l'activation du système d'arrivée, vous n'avez qu'à cliquer su
 ![Image #2](../.gitbook/assets/fewgwegwe.png)
 
 {% hint style="danger" %}
-Assurez-vous que John-Bot ait la permission d'envoyer le message d'arrivée dans le salon configuré. Personnalisation du message d'arrivée
+Assurez-vous que John-Bot ait la permission d'envoyer le message d'arrivée dans le salon configuré.
 {% endhint %}
 
 ## :art: Configuration du message d'arrivée
