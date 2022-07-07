@@ -40,7 +40,7 @@ Lors la configuration de votre message d'arrivée est très fortement recommand�
 
 ![Image #3](../.gitbook/assets/configarrivee.png)
 
-![Image #4](broken-reference)
+![Image #4](../.gitbook/assets/menuarrivee.png)
 
 ![Image #5](../.gitbook/assets/deftitrearrivee.png)
 
