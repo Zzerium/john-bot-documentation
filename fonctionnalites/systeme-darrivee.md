@@ -52,6 +52,10 @@ Le système d'arrivée ne vous convient plus, et vous vous demandez comment le d
 \
 Une fois le panel de configuration sous la main, vous n'avez qu'à cliquer sur le bouton "Désactiver le message d'arrivée" (voir image #7) une fois le bouton enclenché, John-Bot confirmera la désactivation du système d'arrivée (voir image #8).
 
+{% hint style="success" %}
+Si le système d'arrivée ne vous convient plus, notre équipe se ferait un plaisir de savoir pourquoi il ne vous convient plus afin d'améliorer ce système ! Vous pouvez nous contacter via notre adresse e-mail de contact [**team@johnbot.app**](mailto:team@johnbot.app) **** ou bien via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
+{% endhint %}
+
 ![Image #7](../.gitbook/assets/désactiverarrivee.png)
 
 ![Image #8](../.gitbook/assets/msgdesactarrivee.png)
