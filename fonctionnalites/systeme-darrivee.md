@@ -12,9 +12,9 @@ Pour débuter la configuration du système d'arrivée, vous devez ajouter John-B
 \
 Pour ce qui de l'activation du système d'arrivée, vous n'avez qu'à cliquer sur le bouton "Activer le message d'arrivée" (voir image #1) une fois le bouton enclenché, vous devez indiquer le salon qui recevra les messages d'arrivée (voir image #2). Voilà ! Le système d'arrivée est activé sur votre serveur ! &#x20;
 
-![Image #1](../.gitbook/assets/activerarrive.png)
+![Image #1](../.gitbook/assets/activerdepart.png)
 
-![Image #2](../.gitbook/assets/salonarrivee.png)
+![Image #2](../.gitbook/assets/salondepart.png)
 
 {% hint style="danger" %}
 Assurez-vous que John-Bot ait la permission d'envoyer le message d'arrivée dans le salon configuré.
@@ -36,13 +36,13 @@ La manipulation indiqué l'exemple ci-dessus, reste la même pour toutes les aut
 Lors la configuration de votre message d'arrivée est très fortement recommandé de consulté le [**guide des variables**](../autres/variables.md).
 {% endhint %}
 
-![Image #3](../.gitbook/assets/configarrivee.png)
+![Image #3](../.gitbook/assets/configdepart.png)
 
-![Image #4](../.gitbook/assets/menuarrivee.png)
+![Image #4](../.gitbook/assets/menudepart.png)
 
-![Image #5](../.gitbook/assets/deftitrearrivee.png)
+![Image #5](../.gitbook/assets/deftitredepart.png)
 
-![Image #6](../.gitbook/assets/titrearrivee.png)
+![Image #6](../.gitbook/assets/titredepart.png)
 
 ## :x: Désactivation du système d'arrivée
 
@@ -54,6 +54,6 @@ Une fois le panel de configuration sous la main, vous n'avez qu'à cliquer sur l
 Si le système d'arrivée ne vous convient plus, notre équipe se fera un plaisir de savoir pourquoi, afin de pouvoir l'améliorer !
 {% endhint %}
 
-![Image #7](../.gitbook/assets/désactiverarrivee.png)
+![Image #7](../.gitbook/assets/desactiverdepart.png)
 
-![Image #8](../.gitbook/assets/msgdesactarrivee.png)
+![Image #8](../.gitbook/assets/msgdesacdepart.png)
