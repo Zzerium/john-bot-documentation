@@ -28,7 +28,7 @@ Une fois la commande exécutée, vous devez vous servir du menu (voir image #3) 
 \
 Pour configurer un élément de votre message de départ, vous devez sélectionner l'option (voir image #4) que vous souhaitez configurer à votre manière.\
 \
-Pour mon exemple, je vais personnaliser le titre de mon embed d'arrivée, je vais donc sélectionner la première option (voir image #5) une fois l'option sélectionnée, je vais devoir indiquer mon propre titre qui donc, remplacera celui de base (voir image #6). \
+Pour mon exemple, je vais personnaliser le titre de mon embed de départ, je vais donc sélectionner la première option (voir image #5) une fois l'option sélectionnée, je vais devoir indiquer mon propre titre qui donc, remplacera celui de base (voir image #6). \
 \
 La manipulation indiqué l'exemple ci-dessus, reste la même pour toutes les autres options de configuration de votre message de départ.
 
