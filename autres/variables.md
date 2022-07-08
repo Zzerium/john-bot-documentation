@@ -1,7 +1,7 @@
 ---
 description: >-
   Créez vos propres messages d'arrivée et de départ et personnaliser les au
-  maximum avec les variables !
+  maximum avec les variables ! Test github
 ---
 
 # Variables
