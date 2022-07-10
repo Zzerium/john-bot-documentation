@@ -4,7 +4,7 @@
 
 ## Fonctionnalités
 
-* [Modération](fonctionnalites/moderation/README.md)
+* [Modération](fonctionnalites/moderation.md)
   * [Commandes](fonctionnalites/moderation/commandes/README.md)
     * [Ban](fonctionnalites/moderation/commandes/ban.md)
     * [Kick](fonctionnalites/moderation/commandes/kick.md)

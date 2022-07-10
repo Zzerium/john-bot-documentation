@@ -6,6 +6,6 @@ description: >-
 
 # Modération
 
-{% content-ref url="commandes/" %}
-[commandes](commandes/)
+{% content-ref url="moderation/commandes/" %}
+[commandes](moderation/commandes/)
 {% endcontent-ref %}
