@@ -8,6 +8,7 @@
   * [Commandes](fonctionnalites/moderation/commandes/README.md)
     * [Ban](fonctionnalites/moderation/commandes/ban.md)
     * [Kick](fonctionnalites/moderation/commandes/kick.md)
+    * [Clear](fonctionnalites/moderation/commandes/clear.md)
 * [Information](fonctionnalites/information.md)
 * [Divertissement & Jeux](fonctionnalites/divertissement-and-jeux.md)
 * [Divers](fonctionnalites/divers.md)
