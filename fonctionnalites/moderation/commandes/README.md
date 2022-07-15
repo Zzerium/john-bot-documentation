@@ -19,3 +19,11 @@ description: La liste des commandes servant à la modération.
 {% content-ref url="nuke.md" %}
 [nuke.md](nuke.md)
 {% endcontent-ref %}
+
+{% content-ref url="lock.md" %}
+[lock.md](lock.md)
+{% endcontent-ref %}
+
+{% content-ref url="unlock.md" %}
+[unlock.md](unlock.md)
+{% endcontent-ref %}
