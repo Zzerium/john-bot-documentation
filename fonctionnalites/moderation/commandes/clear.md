@@ -11,3 +11,5 @@ Vous devez avoir la permission de gérer les messages pour utiliser cette comman
 La commande Clear permet lorsqu'elle est exécutée correctement de supprimer un nombre de message compris entre 1 et 99 (voir image #1). La commande Clear est aussi utilisable en slash commande.
 
 ![Image #1](../../../.gitbook/assets/Clear.png)
+
+Syntaxe de la commande : **\<Préfixe ou />clear \<nombre de message>**

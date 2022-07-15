@@ -6,3 +6,6 @@ description: >-
 
 # Information
 
+{% content-ref url="commandes.md" %}
+[commandes.md](commandes.md)
+{% endcontent-ref %}

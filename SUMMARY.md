@@ -12,7 +12,8 @@
     * [Nuke](fonctionnalites/moderation/commandes/nuke.md)
     * [Lock](fonctionnalites/moderation/commandes/lock.md)
     * [Unlock](fonctionnalites/moderation/commandes/unlock.md)
-* [Information](fonctionnalites/information.md)
+* [Information](fonctionnalites/information/README.md)
+  * [Commandes](fonctionnalites/information/commandes.md)
 * [Divertissement & Jeux](fonctionnalites/divertissement-and-jeux.md)
 * [Divers](fonctionnalites/divers.md)
 
