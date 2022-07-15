@@ -12,4 +12,4 @@ La commande Clear permet lorsqu'elle est exécutée correctement de supprimer un
 
 ![Image #1](../../../.gitbook/assets/Clear.png)
 
-Syntaxe de la commande : **\<Préfixe ou />clear \<nombre de message>**
+Syntaxe de la commande : \<Préfixe ou />clear \<nombre de message>

@@ -12,4 +12,4 @@ La commande Unlock permet lorsqu'elle est exécutée correctement d'ajouter la p
 
 ![Image #1](../../../.gitbook/assets/Unlock.png)
 
-Syntaxe de la commande : **\<Préfixe ou />unlock \[salon]**
+Syntaxe de la commande : \<Préfixe ou />unlock \[salon]

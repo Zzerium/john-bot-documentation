@@ -12,4 +12,4 @@ La commande Lock permet lorsqu'elle est exécutée correctement de retirer la pe
 
 ![Image #1](../../../.gitbook/assets/Lock.png)
 
-Syntaxe de la commande : **\<Préfixe ou />lock \[salon]**
+Syntaxe de la commande : \<Préfixe ou />lock \[salon]

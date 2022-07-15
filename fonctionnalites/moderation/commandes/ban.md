@@ -12,4 +12,4 @@ La commande Ban permet lorsqu'elle est exécuté correctement de bannir un utili
 
 ![Image #1](../../../.gitbook/assets/Ban.png)
 
-Syntaxe de la commande : \<Préfixe ou />ban \<utilisateur> \[raison]
+Syntaxe de la commande : `<Préfixe ou />ban <utilisateur> [raison]`
