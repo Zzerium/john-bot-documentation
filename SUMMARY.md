@@ -4,6 +4,16 @@
 
 ## Fonctionnalités
 
+* [Information](fonctionnalites/information/README.md)
+  * [Commandes](fonctionnalites/information/commandes/README.md)
+    * [Server-info](fonctionnalites/information/commandes/server-info.md)
+    * [User-info](fonctionnalites/information/commandes/user-info.md)
+    * [Role-info](fonctionnalites/information/commandes/role-info.md)
+    * [Bot-info](fonctionnalites/information/commandes/bot-info.md)
+    * [Channel-info](fonctionnalites/information/commandes/channel-info.md)
+    * [Ping](fonctionnalites/information/commandes/ping.md)
+    * [Uptime](fonctionnalites/information/commandes/uptime.md)
+    * [Member-count](fonctionnalites/information/commandes/member-count.md)
 * [Modération](fonctionnalites/moderation.md)
   * [Commandes](fonctionnalites/moderation/commandes/README.md)
     * [Ban](fonctionnalites/moderation/commandes/ban.md)
@@ -12,8 +22,6 @@
     * [Nuke](fonctionnalites/moderation/commandes/nuke.md)
     * [Lock](fonctionnalites/moderation/commandes/lock.md)
     * [Unlock](fonctionnalites/moderation/commandes/unlock.md)
-* [Information](fonctionnalites/information/README.md)
-  * [Commandes](fonctionnalites/information/commandes.md)
 * [Divertissement & Activité](fonctionnalites/divertissement-and-jeux.md)
 * [Divers](fonctionnalites/divers.md)
 
