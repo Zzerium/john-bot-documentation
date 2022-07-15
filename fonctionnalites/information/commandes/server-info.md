@@ -1,5 +1,5 @@
 ---
-description: Affiche les informations d'un serveur.
+description: Affiche les informations concernant un serveur.
 ---
 
 # Server-info
