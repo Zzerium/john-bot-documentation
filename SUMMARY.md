@@ -4,6 +4,14 @@
 
 ## Fonctionnalités
 
+* [Modération](fonctionnalites/moderation.md)
+  * [Commandes](fonctionnalites/moderation/commandes/README.md)
+    * [Ban](fonctionnalites/moderation/commandes/ban.md)
+    * [Kick](fonctionnalites/moderation/commandes/kick.md)
+    * [Clear](fonctionnalites/moderation/commandes/clear.md)
+    * [Nuke](fonctionnalites/moderation/commandes/nuke.md)
+    * [Lock](fonctionnalites/moderation/commandes/lock.md)
+    * [Unlock](fonctionnalites/moderation/commandes/unlock.md)
 * [Information](fonctionnalites/information/README.md)
   * [Commandes](fonctionnalites/information/commandes/README.md)
     * [Server-info](fonctionnalites/information/commandes/server-info.md)
@@ -14,14 +22,6 @@
     * [Ping](fonctionnalites/information/commandes/ping.md)
     * [Uptime](fonctionnalites/information/commandes/uptime.md)
     * [Member-count](fonctionnalites/information/commandes/member-count.md)
-* [Modération](fonctionnalites/moderation.md)
-  * [Commandes](fonctionnalites/moderation/commandes/README.md)
-    * [Ban](fonctionnalites/moderation/commandes/ban.md)
-    * [Kick](fonctionnalites/moderation/commandes/kick.md)
-    * [Clear](fonctionnalites/moderation/commandes/clear.md)
-    * [Nuke](fonctionnalites/moderation/commandes/nuke.md)
-    * [Lock](fonctionnalites/moderation/commandes/lock.md)
-    * [Unlock](fonctionnalites/moderation/commandes/unlock.md)
 * [Divertissement & Activité](fonctionnalites/divertissement-and-jeux.md)
 * [Divers](fonctionnalites/divers.md)
 
