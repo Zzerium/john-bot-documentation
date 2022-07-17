@@ -21,7 +21,7 @@
     * [Channel-info](fonctionnalites/information/commandes/channel-info.md)
     * [Ping](fonctionnalites/information/commandes/ping.md)
     * [Uptime](fonctionnalites/information/commandes/uptime.md)
-    * [Member-count](fonctionnalites/information/commandes/member-count.md)
+    * [Membercount](fonctionnalites/information/commandes/membercount.md)
 * [Divertissement & Activité](fonctionnalites/divertissement-and-jeux.md)
 * [Divers](fonctionnalites/divers.md)
 

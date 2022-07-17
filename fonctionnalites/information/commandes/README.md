@@ -32,6 +32,6 @@ description: La liste des commandes servant à l'information.
 [uptime.md](uptime.md)
 {% endcontent-ref %}
 
-{% content-ref url="member-count.md" %}
-[member-count.md](member-count.md)
+{% content-ref url="membercount.md" %}
+[membercount.md](membercount.md)
 {% endcontent-ref %}
