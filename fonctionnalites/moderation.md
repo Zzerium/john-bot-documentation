@@ -6,7 +6,7 @@ description: >-
 
 # Modération
 
-Une très courte liste en image (voir image #1) des nombreuses commandes de modération qu'apprécient nos utilisateurs.
+Une très courte liste en image des nombreuses commandes de modération (voir image #1) qu'apprécient nos utilisateurs.
 
 ![Image #1](../.gitbook/assets/Modération.png)
 

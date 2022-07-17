@@ -6,6 +6,10 @@ description: >-
 
 # Information
 
+Une très courte liste en image des nombreuses commandes d'information (voir image #1) qu'apprécient nos utilisateurs.
+
+![Image #1](../../.gitbook/assets/Information.png)
+
 {% content-ref url="commandes/" %}
 [commandes](commandes/)
 {% endcontent-ref %}

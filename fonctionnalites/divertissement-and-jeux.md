@@ -4,5 +4,11 @@ description: >-
   comporte donc plusieurs commandes d'amusement.
 ---
 
-# Divertissement & Jeux
+# Divertissement & Activité
 
+Une très courte liste en image des nombreuses commandes de divertissement (voir image #1) et d'activité (voir image #2) qu'apprécient nos utilisateurs.\
+
+
+![Image #1](../.gitbook/assets/Divertissement.png)
+
+![Image #2](../.gitbook/assets/Activité.png)

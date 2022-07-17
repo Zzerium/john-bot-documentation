@@ -7,3 +7,6 @@ description: >-
 
 # Divers
 
+Une très courte liste en image des nombreuses autres commandes (voir image #1) qu'apprécient nos utilisateurs.
+
+![Image #1](../.gitbook/assets/Autre.png)
