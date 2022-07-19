@@ -54,6 +54,6 @@ Une fois le panel de configuration sous la main, vous n'avez qu'à cliquer sur l
 Si le système d'arrivée ne vous convient plus, notre équipe se fera un plaisir de savoir pourquoi, afin de pouvoir l'améliorer !
 {% endhint %}
 
-![Image #7](../.gitbook/assets/desactiverdepart.png)
+![Image #7](../.gitbook/assets/desactiverarrivee.png)
 
 ![Image #8](../.gitbook/assets/msgdesacdepart.png)
