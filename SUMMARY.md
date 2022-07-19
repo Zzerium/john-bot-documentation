@@ -22,7 +22,7 @@
     * [Ping](fonctionnalites/information/commandes/ping.md)
     * [Uptime](fonctionnalites/information/commandes/uptime.md)
     * [Membercount](fonctionnalites/information/commandes/membercount.md)
-* [Divertissement](fonctionnalites/divertissement-and-jeux/README.md)
+* [Divertissement](fonctionnalites/divertissement-and-jeux.md)
   * [Commandes](fonctionnalites/divertissement-and-jeux/commandes/README.md)
     * [8ball](fonctionnalites/divertissement-and-jeux/commandes/8ball.md)
     * [Saviez-vous](fonctionnalites/divertissement-and-jeux/commandes/saviez-vous.md)
