@@ -8,6 +8,6 @@ La commande Ascii permet lorsqu'elle est exécuté correctement transformer un c
 
 ![Image #1](../../../.gitbook/assets/ASCII.png)
 
-Syntaxe de la commande : \<Préfixe ou />ascii \<message>
+Syntaxe de la commande : \<Préfixe>ascii \<message>
 
 ¹ _American Standard Code for Information Interchange_

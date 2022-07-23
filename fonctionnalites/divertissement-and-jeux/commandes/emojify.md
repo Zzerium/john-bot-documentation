@@ -12,4 +12,4 @@ La commande Emojify permet lorsqu'elle est exécuté correctement de transformer
 
 ![Image #1](../../../.gitbook/assets/Emojify.png)
 
-Syntaxe de la commande : \<Préfixe ou />emojify \<message>
+Syntaxe de la commande : \<Préfixe>emojify \<message>
