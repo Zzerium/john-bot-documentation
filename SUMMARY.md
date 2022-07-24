@@ -38,8 +38,15 @@
   * [Commandes](fonctionnalites/activite/commandes/README.md)
     * [Snake](fonctionnalites/activite/commandes/snake.md)
     * [Connect4](fonctionnalites/activite/commandes/connect4.md)
-* [Divers](fonctionnalites/divers/README.md)
-  * [Commandes](fonctionnalites/divers/commandes.md)
+* [Divers](fonctionnalites/divers.md)
+  * [Commandes](fonctionnalites/divers/commandes/README.md)
+    * [Avatar](fonctionnalites/divers/commandes/avatar.md)
+    * [Banner](fonctionnalites/divers/commandes/banner.md)
+    * [Poll](fonctionnalites/divers/commandes/poll.md)
+    * [Help](fonctionnalites/divers/commandes/help.md)
+    * [Invite](fonctionnalites/divers/commandes/invite.md)
+    * [Prefix](fonctionnalites/divers/commandes/prefix.md)
+    * [Emojiadd](fonctionnalites/divers/commandes/emojiadd.md)
 
 ## Configuration
 
