@@ -38,7 +38,8 @@
   * [Commandes](fonctionnalites/activite/commandes/README.md)
     * [Snake](fonctionnalites/activite/commandes/snake.md)
     * [Connect4](fonctionnalites/activite/commandes/connect4.md)
-* [Divers](fonctionnalites/divers.md)
+* [Divers](fonctionnalites/divers/README.md)
+  * [Commandes](fonctionnalites/divers/commandes.md)
 
 ## Configuration
 
