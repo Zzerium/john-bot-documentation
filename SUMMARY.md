@@ -4,7 +4,7 @@
 
 ## Fonctionnalités
 
-* [Modération](fonctionnalites/moderation.md)
+* [Modération](fonctionnalites/moderation/README.md)
   * [Commandes](fonctionnalites/moderation/commandes/README.md)
     * [Ban](fonctionnalites/moderation/commandes/ban.md)
     * [Kick](fonctionnalites/moderation/commandes/kick.md)
@@ -22,7 +22,7 @@
     * [Ping](fonctionnalites/information/commandes/ping.md)
     * [Uptime](fonctionnalites/information/commandes/uptime.md)
     * [Membercount](fonctionnalites/information/commandes/membercount.md)
-* [Divertissement](fonctionnalites/divertissement-and-jeux.md)
+* [Divertissement](fonctionnalites/divertissement-and-jeux/README.md)
   * [Commandes](fonctionnalites/divertissement-and-jeux/commandes/README.md)
     * [8ball](fonctionnalites/divertissement-and-jeux/commandes/8ball.md)
     * [Saviez-vous](fonctionnalites/divertissement-and-jeux/commandes/saviez-vous.md)
@@ -38,7 +38,7 @@
   * [Commandes](fonctionnalites/activite/commandes/README.md)
     * [Snake](fonctionnalites/activite/commandes/snake.md)
     * [Connect4](fonctionnalites/activite/commandes/connect4.md)
-* [Divers](fonctionnalites/divers.md)
+* [Divers](fonctionnalites/divers/README.md)
   * [Commandes](fonctionnalites/divers/commandes/README.md)
     * [Avatar](fonctionnalites/divers/commandes/avatar.md)
     * [Banner](fonctionnalites/divers/commandes/banner.md)
@@ -51,9 +51,9 @@
 ## Configuration
 
 * [Système d'arrivée](configuration/systeme-darrivee.md)
-* [Préfixe](configuration/prefixe.md)
-* [Rôle d'arrivée](configuration/role-darrivee.md)
 * [Système de départ](configuration/systeme-darrivee-1.md)
+* [Rôle d'arrivée](configuration/role-darrivee.md)
+* [Préfixe](configuration/prefixe.md)
 
 ## Autres
 
