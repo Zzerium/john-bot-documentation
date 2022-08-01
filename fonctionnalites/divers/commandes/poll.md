@@ -4,8 +4,8 @@ description: Crée un sondage.
 
 # Poll
 
-La commande Poll vous permet de créer un sondage avec des réactions, suffit de vous mettre à vos claviers ! (voir Image #1).
+La commande Poll permet de créer un sondage. (voir image #1). La commande Poll est aussi utilisable en slash commande.
 
-![Image #1](../../../.gitbook/assets/poll.png)
+![Image #1](../../../.gitbook/assets/Poll.png)
 
-Syntaxe de la commande : \<Préfixe ou /> \<question>
+Syntaxe de la commande : \<Préfixe ou />poll \<question>

@@ -51,7 +51,7 @@
 ## Configuration
 
 * [Système d'arrivée](configuration/systeme-darrivee.md)
-* [Système de départ](configuration/systeme-darrivee-1.md)
+* [Système de départ](configuration/systeme-de-depart.md)
 * [Rôle d'arrivée](configuration/role-darrivee.md)
 * [Préfixe](configuration/prefixe.md)
 
