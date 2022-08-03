@@ -6,17 +6,17 @@ description: Défini un rôle qui sera donné à chaque nouvel utilisateur.
 
 ## :airplane\_small: Mise en place du rôle d'arrivée
 
-Pour commencer, vous pouvez taper la commande `/autorole view` pour vous assurez de ne pas avoir activée le rôle d'arrivée (voir image #1).
+Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole enable` ou encore `john autorole enable` suivi de votre rôle d'arrivée dans l'encadré `rôle` (commande slash) ou encore directement après la commande (commande avec préfixe).\
+\
+Pour mon exemple, je vais définir `@Utilisateur` comme nouveau rôle d'arrivée, je vais donc exécutez la commande `/autorole enable` et indiquer dans l'encadré `rôle`  `@Utilisateur` (voir image #1). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera l'activation du rôle d'arrivée sur le rôle choisie (voir image #2).\
+****\
+****<mark style="color:red;">**IMPORTANT**</mark>** :** Assurez-vous que le rôle **John-Bot** (rôle d'intégration de John-Bot) soit en haut de votre rôle d'arrivée. (voir image #3)
 
-Maintenant la partie de le configurer ! Suffit de taper `/autorole enable` à la suite de votre choix de rôle (voir image #2). Un message de succès est supposé d'apparaitre, si ce n'est pas le cas contacter l'équipe de John-Bot via notre adresse e-mail de contact [**team@johnbot.app**](mailto:team@johnbot.app) **** ou bien via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
+![Image #1](../.gitbook/assets/AutoRoleEnable.png)
 
-![Image #1](../.gitbook/assets/autoroleview.png)
+![Image #2](../.gitbook/assets/AutoRoleConfirm.png)
 
-![Image #2](../.gitbook/assets/autoroleenable.png)
-
-{% hint style="danger" %}
-Assurez-vous que le rôle John-Bot soit en haut de votre rôle d'arrivée.
-{% endhint %}
+![image #3](../.gitbook/assets/John-BotRole.png)
 
 ## :radioactive: Désactivé le rôle d'arrivée
 
