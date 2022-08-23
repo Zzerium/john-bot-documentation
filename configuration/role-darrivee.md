@@ -22,7 +22,9 @@ Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'
 
 ## :eyes: Afficher le rôle d'arrivée actuel
 
-Vous ne vous rappelez plus si vous avez activé le rôle d'arrivée ou encore quel rôle vous avez configuré ? Si c'est le cas&#x20;
+Vous ne vous rappelez plus si vous avez activé le rôle d'arrivée ou encore quel rôle vous avez configuré ? Si c'est le cas vous n'avez qu'à exécuter la commande `/autorole view` ou encore `john autorole view` dans un salon textuel et le tour est joué ! (voir image #4)
+
+<figure><img src="../.gitbook/assets/AutoRoleView.png" alt=""><figcaption><p>Image #4</p></figcaption></figure>
 
 ## :x: Désactivé le rôle d'arrivée
 

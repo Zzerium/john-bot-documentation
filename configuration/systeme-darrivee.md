@@ -22,7 +22,7 @@ Assurez-vous que John-Bot ait la permission d'envoyer le message d'arrivée dans
 
 ## :art: Configuration du message d'arrivée
 
-C'est super d'activer le système d'arrivée, mais entre nous, le message de base n'est pas bien beau. C'est là qu'entre en jeu la configuration du message d'arrivée ! Si ce n'est pas déjà fait, vous devez exécutez la commande `/joinpanel` <mark style="color:blue;"></mark> ou encore `john joinpanel` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée. \
+C'est super d'activer le système d'arrivée, mais entre nous, le message de base n'est pas bien beau. C'est là qu'entre en jeu la configuration du message d'arrivée ! Si ce n'est pas déjà fait, vous devez exécuter la commande `/joinpanel` <mark style="color:blue;"></mark> ou encore `john joinpanel` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée. \
 \
 Une fois la commande exécutée, vous devez vous servir du menu (voir image #3) de cette dernière afin de configurer votre message d'arrivée à votre guise.\
 \
@@ -46,7 +46,7 @@ Lors la configuration de votre message d'arrivée est très fortement recommand�
 
 ## :x: Désactivation du système d'arrivée
 
-Le système d'arrivée ne vous convient plus, et vous vous demandez comment le désactiver ? Si c'est le cas vous en saurez plus après avoir lu ce rapide texte. Si ce n'est pas déjà fait, vous devez exécutez la commande `/joinpanel` <mark style="color:blue;"></mark> ou encore `john joinpanel` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée. \
+Le système d'arrivée ne vous convient plus, et vous vous demandez comment le désactiver ? Si c'est le cas vous en saurez plus après avoir lu ce rapide texte. Si ce n'est pas déjà fait, vous devez exécuter la commande `/joinpanel` <mark style="color:blue;"></mark> ou encore `john joinpanel` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée. \
 \
 Une fois le panel de configuration sous la main, vous n'avez qu'à cliquer sur le bouton "Désactiver le message d'arrivée" (voir image #7) une fois le bouton enclenché, John-Bot confirmera la désactivation du système d'arrivée (voir image #8).
 
