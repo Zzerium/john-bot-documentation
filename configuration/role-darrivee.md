@@ -22,7 +22,7 @@ Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'
 
 ## :eyes: Afficher le rôle d'arrivée actuel
 
-
+Vous ne vous rappelez plus si vous avez activé le rôle d'arrivée ou encore quel rôle vous avez configuré ? Si c'est le cas&#x20;
 
 ## :x: Désactivé le rôle d'arrivée
 
