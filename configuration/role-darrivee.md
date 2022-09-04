@@ -18,7 +18,7 @@ Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'
 
 ![Image #2](../.gitbook/assets/AutoRoleConfirme.png)
 
-![image #3](../.gitbook/assets/John-BotRole.png)
+![image #3](../.gitbook/assets/John-BotRoles.png)
 
 ## :eyes: Afficher le rôle d'arrivée actuel
 
@@ -28,6 +28,10 @@ Vous ne vous rappelez plus si vous avez activé le rôle d'arrivée ou encore qu
 
 ## :x: Désactivé le rôle d'arrivée
 
-Envie de désactiver le rôle d'arrivée ? Tapez la commande `/autorole disable` et le tour est joué (voir image #3) !
+Le système de rôle d'arrivée ne vous convient plus ? Si c'est le cas vous en saurez plus sur comme le désactivation après lu ce court texte. Pour désactiver le système de rôle d'arrivée, vous n'avez qu'à exécuter la commande `/autorole disable` ou encore `john autorole disable` dans un salon textuel et le tour est joué ! (voir image #3)
 
-![Image #3](../.gitbook/assets/autoroledisable.png)
+{% hint style="info" %}
+Si le système de rôle d'arrivée ne vous convient plus, notre équipe se fera un plaisir de savoir pourquoi, afin de pouvoir l'améliorer !
+{% endhint %}
+
+![Image #3](../.gitbook/assets/AutoRoleDisable.png)
