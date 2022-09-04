@@ -12,6 +12,8 @@
     * [Nuke](fonctionnalites/moderation/commandes/nuke.md)
     * [Lock](fonctionnalites/moderation/commandes/lock.md)
     * [Unlock](fonctionnalites/moderation/commandes/unlock.md)
+    * [Mute](fonctionnalites/moderation/commandes/mute.md)
+    * [Unmute](fonctionnalites/moderation/commandes/unmute.md)
 * [Information](fonctionnalites/information/README.md)
   * [Commandes](fonctionnalites/information/commandes/README.md)
     * [Server-info](fonctionnalites/information/commandes/server-info.md)
