@@ -1,5 +1,5 @@
 ---
-description: Bannit un utilisateur du serveur.
+description: Banni un utilisateur du serveur.
 ---
 
 # Ban
