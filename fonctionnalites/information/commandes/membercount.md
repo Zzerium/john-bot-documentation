@@ -1,5 +1,5 @@
 ---
-description: Affiche le nombre de membres que possède le serveur.
+description: Affiche le nombre de membres que compte le serveur.
 ---
 
 # Membercount
