@@ -48,7 +48,6 @@
     * [Say](fonctionnalites/divers/commandes/say.md)
     * [Help](fonctionnalites/divers/commandes/help.md)
     * [Invite](fonctionnalites/divers/commandes/invite.md)
-    * [Prefix](fonctionnalites/divers/commandes/prefix.md)
     * [Emojiadd](fonctionnalites/divers/commandes/emojiadd.md)
 
 ## Configuration
