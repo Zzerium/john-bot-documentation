@@ -28,7 +28,6 @@
 * [Divertissement](fonctionnalites/divertissement/README.md)
   * [Commandes](fonctionnalites/divertissement/commandes/README.md)
     * [8ball](fonctionnalites/divertissement/commandes/8ball.md)
-    * [Saviez-vous](fonctionnalites/divertissement/commandes/saviez-vous.md)
     * [Hug](fonctionnalites/divertissement/commandes/hug.md)
     * [Passed](fonctionnalites/divertissement/commandes/passed.md)
     * [Punch](fonctionnalites/divertissement/commandes/punch.md)
@@ -49,6 +48,7 @@
     * [Help](fonctionnalites/divers/commandes/help.md)
     * [Invite](fonctionnalites/divers/commandes/invite.md)
     * [Emojiadd](fonctionnalites/divers/commandes/emojiadd.md)
+    * [Saviez-vous](fonctionnalites/divers/commandes/saviez-vous.md)
 
 ## Configuration
 
