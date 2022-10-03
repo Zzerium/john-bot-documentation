@@ -6,21 +6,21 @@ description: Défini un rôle qui sera donné à chaque nouvel utilisateur.
 
 ## :airplane\_small: Mise en place du rôle d'arrivée
 
-Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole enable` ou encore `john autorole enable` suivi de votre rôle d'arrivée dans l'encadré `rôle` (commande slash) ou encore directement après la commande (commande avec préfixe).\
+Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole add` ou encore `john autorole add` suivi d'un rôle d'arrivée dans l'encadré `rôle` (commande slash) ou encore directement après la commande (commande avec préfixe).\
 \
-Pour mon exemple, je vais définir `@Utilisateur` comme nouveau rôle d'arrivée, je vais donc exécutez la commande `/autorole enable` et indiquer dans l'encadré `rôle`  `@Utilisateur` (voir image #1). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera l'activation du rôle d'arrivée sur le rôle choisie (voir image #2).
+Pour mon exemple, je vais ajouter `@Utilisateur` comme rôle d'arrivée, je vais donc exécutez la commande `/autorole add` et indiquer dans l'encadré `rôle`  `@Utilisateur` (voir image #1). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera l'ajout du rôle d'arrivée à la liste des rôles d'arrivé (voir image #2).
 
 {% hint style="danger" %}
 Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'arrivée. (voir image #3)
 {% endhint %}
 
-![Image #1](../.gitbook/assets/autoroleview.png)
+![Image #1](../.gitbook/assets/AutoRoleAdd.png)
 
 ![Image #2](../.gitbook/assets/AutoRoleConfirme.png)
 
 ![image #3](../.gitbook/assets/John-BotRoles.png)
 
-## :eyes: Afficher le rôle d'arrivée actuel
+## :eyes: Afficher la liste des rôles d'arrivée
 
 Vous ne vous rappelez plus si vous avez activé le rôle d'arrivée ou encore quel rôle vous avez configuré ? Si c'est le cas vous n'avez qu'à exécuter la commande `/autorole view` ou encore `john autorole view` dans un salon textuel et le tour est joué ! (voir image #4)
 
