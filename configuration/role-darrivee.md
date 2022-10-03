@@ -4,7 +4,7 @@ description: Défini un rôle qui sera donné à chaque nouvel utilisateur.
 
 # Rôle d'arrivée
 
-## :airplane\_small: Mise en place du rôle d'arrivée
+## :airplane\_small: Mise en place du système de rôle d'arrivée
 
 Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole add` ou encore `john autorole add` suivi d'un rôle d'arrivée dans l'encadré `rôle` (commande slash) ou encore directement après la commande (commande avec préfixe).\
 \
