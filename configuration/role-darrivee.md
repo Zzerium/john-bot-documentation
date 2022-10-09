@@ -4,6 +4,10 @@ description: Défini un rôle qui sera donné à chaque nouvel utilisateur.
 
 # Rôle d'arrivée
 
+{% hint style="info" %}
+Cette page est en train d'être mise à jour suite à la refonte de l'AutoRole, il se peut que certaines informations soit erronées&#x20;
+{% endhint %}
+
 ## :airplane\_small: Mise en place du système de rôle d'arrivée
 
 Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole add` ou encore `john autorole add` suivi d'un rôle d'arrivée dans l'encadré `rôle` (commande slash) ou encore directement après la commande (commande avec préfixe).\
@@ -14,7 +18,7 @@ Pour mon exemple, je vais ajouter `@Utilisateur` comme rôle d'arrivée, je vais
 Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'arrivée. (voir image #3)
 {% endhint %}
 
-![Image #1](../.gitbook/assets/AutoRoleAdd.png)
+![Image #1](../.gitbook/assets/autoroleview.png)
 
 ![Image #2](../.gitbook/assets/AutoRoleConfirme.png)
 
