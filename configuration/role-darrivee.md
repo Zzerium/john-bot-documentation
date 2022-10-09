@@ -5,7 +5,7 @@ description: Défini un rôle qui sera donné à chaque nouvel utilisateur.
 # Rôle d'arrivée
 
 {% hint style="warning" %}
-Cette page est actuellement en cours de refonte, suite à la mise à jour de l'AutoRole, il se peut que certaines informations soit erronées.
+Cette page est actuellement en cours de refonte suite à la mise à jour de l'AutoRole, il se peut que certaines informations soit erronées.
 {% endhint %}
 
 ## :airplane\_small: Mise en place du système de rôle d'arrivée
