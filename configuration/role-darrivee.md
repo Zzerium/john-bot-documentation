@@ -1,5 +1,5 @@
 ---
-description: Défini un rôle qui sera donné à chaque nouvel utilisateur.
+description: Défini un ou plusieurs rôle(s) qui sera donné à chaque nouvel utilisateur.
 ---
 
 # Système de rôle d'arrivée
