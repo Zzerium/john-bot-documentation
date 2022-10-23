@@ -12,9 +12,9 @@ Cette page est actuellement en cours de refonte suite à la mise à jour de l'Au
 
 Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole status` et sélectionner "Activer" ou encore `john autorole status`  et sélectionner "Activer" et le tour est joué ! (voir image #1)
 
-![Image #1](../.gitbook/assets/AutoRoleStatusEnable.png)
+![Image #1](../.gitbook/assets/autoroleview.png)
 
-## :busts\_in\_silhouette: Ajouter un rôle au système de rôle d'arrivée
+## :busts\_in\_silhouette: Ajouter un rôle d'arrivée
 
 Pour mon exemple, je vais ajouter `@Utilisateur` comme rôle d'arrivée, je vais donc exécutez la commande `/autorole add` et indiquer dans l'encadré `rôle`  `@Utilisateur` (voir image #2). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera l'ajout du rôle d'arrivée à la liste des rôles d'arrivé (voir image #3).
 
@@ -30,7 +30,7 @@ Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'
 
 Vous ne vous rappelez plus si vous avez activé le système de rôle d'arrivée ou encore quels rôles vous avez configurés ? Si c'est le cas vous n'avez qu'à exécuter la commande `/autorole list` ou encore `john autorole list` dans un salon textuel et le tour est joué ! (voir image #4)
 
-<figure><img src="../.gitbook/assets/AutoRoleList.png" alt=""><figcaption><p>Image #4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/AutoRoleView.png" alt=""><figcaption><p>Image #4</p></figcaption></figure>
 
 ## :x: Désactiver le système de rôle d'arrivée
 
@@ -40,4 +40,4 @@ Le système de rôle d'arrivée ne vous convient plus ? Si c'est le cas, vous n'
 Si le système de rôle d'arrivée ne vous convient plus, notre équipe se fera un plaisir de savoir pourquoi, afin de pouvoir l'améliorer !
 {% endhint %}
 
-![Image #3](../.gitbook/assets/AutoRoleStatusDisable.png)
+![Image #3](../.gitbook/assets/AutoRoleDisable.png)
