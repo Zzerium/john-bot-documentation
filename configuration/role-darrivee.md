@@ -44,7 +44,7 @@ Vous ne vous rappelez plus si vous avez activé le système de rôle d'arrivée 
 
 ## :x: Désactiver le système de rôle d'arrivée
 
-Le système de rôle d'arrivée ne vous convient plus ? Si c'est le cas, vous n'avez qu'à exécuter la commande `/autorole status` et sélectionner "Désactiver" ou encore `john autorole status`  et sélectionner "Désactiver" dans un salon textuel et le tour est joué ! (voir image #8ma)
+Le système de rôle d'arrivée ne vous convient plus ? Si c'est le cas, vous n'avez qu'à exécuter la commande `/autorole status` et sélectionner "Désactiver" ou encore `john autorole status`  et sélectionner "Désactiver" dans un salon textuel et le tour est joué ! (voir image #8)
 
 {% hint style="info" %}
 Si le système de rôle d'arrivée ne vous convient plus, notre équipe se fera un plaisir de savoir pourquoi, afin de pouvoir l'améliorer !
