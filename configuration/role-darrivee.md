@@ -16,7 +16,9 @@ Pour débuter la configuration du système d'arrivée, vous devez ajouter John-B
 
 ## :busts\_in\_silhouette: Ajouter un rôle d'arrivée
 
-Pour mon exemple, je vais ajouter `@Utilisateur` comme rôle d'arrivée, je vais donc exécutez la commande `/autorole add` et indiquer dans l'encadré `rôle`  `@Utilisateur` (voir image #2). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera l'ajout du rôle d'arrivée à la liste des rôles d'arrivé (voir image #3).
+Vous venez d'activer le système de rôle d'arrivée certes, mais maintenant pour qu'il soit réellement utile vous devez ajouter des rôles d'arrivée !\
+\
+Pour mon exemple, je vais ajouter le rôle `@Utilisateur` comme rôle d'arrivée, je vais donc exécutez la commande `/autorole add` et indiquer dans l'encadré `rôle`  "`@Utilisateur`" (voir image #2). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera l'ajout du rôle d'arrivée à la liste des rôles d'arrivé (voir image #3).
 
 {% hint style="danger" %}
 Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'arrivée. (voir image #3)
@@ -25,6 +27,10 @@ Assurez-vous que rôle d'intégration de John-Bot soit en haut de votre rôle d'
 ![Image #2](../.gitbook/assets/AutoRoleConfirme.png)
 
 ![image #3](../.gitbook/assets/John-BotRoles.png)
+
+## :wastebasket: Supprimer un rôle d'arrivée
+
+
 
 ## :eyes: Afficher la liste des rôles d'arrivée
 
