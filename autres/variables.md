@@ -12,7 +12,7 @@ Attention ! Ces variables sont seulement utilisables pour la configuration des m
 
 | Liste des variables | Description des variables                                                                           |
 | ------------------- | --------------------------------------------------------------------------------------------------- |
-| {user}              | Affiche le nom et le tag (Utilisateur#0000) de l'utilisateur.                                       |
+| {user}              | Affiche le nom et le tag (Utilisateur#0001) de l'utilisateur.                                       |
 | {user.name}         | Affiche le nom de l'utilisateur (Utilisateur).                                                      |
 | {user.mention}      | Affiche la mention de l'utilisateur (@Utilisateur).                                                 |
 | {server.name}       | Affiche le nom du serveur sur lequel l'utilisateur fait son arrivée ou son départ.                  |
