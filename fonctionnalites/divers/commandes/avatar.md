@@ -8,4 +8,4 @@ La commande Avatar permet d'afficher l'avatar d'un utilisateur (voir image #1). 
 
 ![Image #1](../../../.gitbook/assets/avatar.png)
 
-Syntaxe de la commande : /avatar \[utilisateur]
+Syntaxe de la commande : \<Préfixe ou />avatar \[utilisateur]

@@ -8,4 +8,4 @@ La commande Channel-info permet d'afficher les informations d'un salon. (voir im
 
 ![Image #1](../../../.gitbook/assets/Channelinfo.png)
 
-Syntaxe de la commande : /channel-info \[# ou identifiant du salon]
+Syntaxe de la commande : \<Préfixe ou />channel-info \[# ou identifiant du salon]

@@ -12,4 +12,4 @@ La commande Nuke permet lorsqu'elle est exécutée correctement de supprimer un 
 
 ![Image #1](../../../.gitbook/assets/Nuke.png)
 
-Syntaxe de la commande : /nuke \[salon]
+Syntaxe de la commande : \<Préfixe ou />nuke \[salon]

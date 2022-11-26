@@ -12,4 +12,4 @@ La commande Kick permet lorsqu'elle est exécutée correctement d'expulser un ut
 
 ![Image #1](../../../.gitbook/assets/Kick.png)
 
-Syntaxe de la commande : /kick \<utilisateur> \[raison]
+Syntaxe de la commande : \<Préfixe ou />kick \<utilisateur> \[raison]

@@ -8,4 +8,4 @@ La commande Ping permet d'afficher le temps de latence de John-Bot. (voir image 
 
 ![Image #1](../../../.gitbook/assets/Ping.png)
 
-Syntaxe de la commande : /ping
+Syntaxe de la commande : \<Préfixe ou />ping

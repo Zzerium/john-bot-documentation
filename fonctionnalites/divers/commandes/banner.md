@@ -8,4 +8,4 @@ La commande Banner permet d'afficher la bannière d'un utilisateur. (voir image 
 
 ![Image #1](../../../.gitbook/assets/Banner.png)
 
-Syntaxe de la commande : /banner \[utilisateur]
+Syntaxe de la commande : \<Préfixe ou />banner \[utilisateur]

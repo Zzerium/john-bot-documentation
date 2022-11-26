@@ -8,4 +8,4 @@ La commande Invite permet d'afficher d'obtenir un lien d'invitation pour ajouter
 
 ![Image #1](../../../.gitbook/assets/Invite.png)
 
-Syntaxe de la commande : /invite
+Syntaxe de la commande : \<Préfixe ou />invite

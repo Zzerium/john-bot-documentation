@@ -8,4 +8,4 @@ La commande Server-info permet d'afficher les informations du serveur ou elle es
 
 ![Image #1](../../../.gitbook/assets/ServerInfo.png)
 
-Syntaxe de la commande : /server-info \[identifiant du serveur]
+Syntaxe de la commande : \<Préfixe ou />server-info \[identifiant du serveur]

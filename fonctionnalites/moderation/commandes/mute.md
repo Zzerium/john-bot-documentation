@@ -12,4 +12,4 @@ La commande Mute permet lorsqu'elle est exécutée correctement permet d'empêch
 
 <figure><img src="../../../.gitbook/assets/Mute.png" alt=""><figcaption><p>Image #1</p></figcaption></figure>
 
-Syntaxe de la commande : /mute \<utilisateur> \<temps> \[raison]
+Syntaxe de la commande : \<Préfixe ou />mute \<utilisateur> \<temps> \[raison]

@@ -8,4 +8,4 @@ La commande Poll permet de créer un sondage. (voir image #1). La commande Poll 
 
 ![Image #1](../../../.gitbook/assets/Poll.png)
 
-Syntaxe de la commande : /poll \<question>
+Syntaxe de la commande : \<Préfixe ou />poll \<question>

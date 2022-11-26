@@ -9,4 +9,4 @@ La commande User-info permet d'afficher les informations à propos d'un utilisat
 
 ![Image #1](../../../.gitbook/assets/UserInfo.png)
 
-Syntaxe de la commande : /user-info \[@ ou identifiant de l'utilisateur]
+Syntaxe de la commande : \<Préfixe ou />user-info \[@ ou identifiant de l'utilisateur]

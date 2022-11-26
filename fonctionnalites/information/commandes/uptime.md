@@ -8,4 +8,4 @@ La commande Uptime permet d'afficher depuis combien de temps est opérationnel J
 
 ![Image #1](../../../.gitbook/assets/Uptime.png)
 
-Syntaxe de la commande : /uptime
+Syntaxe de la commande : \<Préfixe ou />uptime

@@ -8,4 +8,4 @@ La commande Connect4 permet lorsqu'elle est exécuté correctement de lancer une
 
 ![Image #1](../../../.gitbook/assets/Connect4.png)
 
-Syntaxe de la commande : /connect4 \<utilisateur>
+Syntaxe de la commande : \<Préfixe ou />connect4 \<utilisateur>

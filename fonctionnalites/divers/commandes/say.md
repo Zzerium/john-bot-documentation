@@ -12,4 +12,4 @@ La commande Say permet lorsqu'elle est exécuté correctement de dire un message
 
 ![Image #1](../../../.gitbook/assets/Say.png)
 
-Syntaxe de la commande : /say \<message>
+Syntaxe de la commande : \<Préfixe ou />say \<message>

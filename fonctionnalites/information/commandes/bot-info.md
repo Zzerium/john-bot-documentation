@@ -8,4 +8,4 @@ La commande Bot-info permet d'afficher les informations de John-Bot. (voir image
 
 ![Image #1](../../../.gitbook/assets/Botinfo.png)
 
-Syntaxe de la commande : /bot-info
+Syntaxe de la commande : \<Préfixe ou />bot-info

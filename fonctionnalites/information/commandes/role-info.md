@@ -8,4 +8,4 @@ La commande Role-info permet d'afficher les informations à propos d'un rôle. (
 
 ![Image #1](../../../.gitbook/assets/RoleInfo.png)
 
-Syntaxe de la commande : /role-info \[@ ou identifiant du rôle]
+Syntaxe de la commande : \<Préfixe ou />role-info \[@ ou identifiant du rôle]

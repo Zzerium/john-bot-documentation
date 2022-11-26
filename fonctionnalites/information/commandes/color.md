@@ -8,4 +8,4 @@ La commande Color permet lorsqu'elle est exécuté correctement d'afficher les i
 
 ![Image #1](../../../.gitbook/assets/Color.png)
 
-Syntaxe de la commande : /color \<couler en Hexadécimal>
+Syntaxe de la commande : \<Préfixe ou />color \<couler en Hexadécimal>
