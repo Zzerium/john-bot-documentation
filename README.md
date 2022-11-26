@@ -9,7 +9,7 @@ coverY: 0
 # Accueil
 
 {% hint style="warning" %}
-Nous "Équipe John-Bot" vous conseillons d'utiliser les slashs commandes de John-Bot, les commandes à préfixe de John-Bot seront prochainement obsolètes. De plus les slashs commandes sont beaucoup plus optimisé et intuitive. Si vous avez la moindre question, contactez nous via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
+Nous "Équipe John-Bot" vous conseillons d'utiliser les slashs commandes de John-Bot, les commandes à préfixe de John-Bot seront prochainement désactivé. De plus les slashs commandes sont beaucoup plus optimisé et intuitive. Si vous avez la moindre question, contactez nous via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
 {% endhint %}
 
 ## :books: La documentation de John-Bot
