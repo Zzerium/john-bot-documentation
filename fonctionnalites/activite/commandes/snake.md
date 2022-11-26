@@ -8,4 +8,4 @@ La commande Snake permet de lancer un partie du jeu du serpent, plus connu sous 
 
 ![Image #1](../../../.gitbook/assets/Snake.png)
 
-Syntaxe de la commande : \<Préfixe ou />snake
+Syntaxe de la commande : /snake

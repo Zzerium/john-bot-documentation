@@ -8,4 +8,4 @@ La commande Membercount permet d'afficher le nombre de membres que possède le s
 
 ![Image #1](../../../.gitbook/assets/Membercount.png)
 
-Syntaxe de la commande : \<Préfixe ou />membercount&#x20;
+Syntaxe de la commande : /membercount&#x20;
