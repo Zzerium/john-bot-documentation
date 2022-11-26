@@ -12,6 +12,6 @@ Pour débuter la configuration du préfixe de John-Bot, vous devez logiquement a
 \
 Pour mon exemple, je vais définir `!` comme nouveau préfixe pour John-Bot, je vais donc exécutez la commande `john setprefix` et indiquer `!` (voir image #1). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera le changement de préfixe (voir image #2).
 
-![Image #1](../.gitbook/assets/SetPrefix.png)
+![Image #1](../.gitbook/assets/prefix.png)
 
-![Image #2](../.gitbook/assets/SetPrefixConfirmation.png)
+![Image #2](../.gitbook/assets/SetPrefix.png)
