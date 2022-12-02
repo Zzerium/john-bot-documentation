@@ -12,4 +12,4 @@ La commande Unmute permet lorsqu'elle est exécutée correctement permet rendre 
 
 <figure><img src="../../../.gitbook/assets/Unmute.png" alt=""><figcaption><p>Image #1</p></figcaption></figure>
 
-Syntaxe de la commande : \<Préfixe ou />unmute \<utilisateur>
+Syntaxe de la commande : /unmute \<utilisateur>

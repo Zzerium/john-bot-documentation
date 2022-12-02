@@ -8,7 +8,7 @@ description: >-
 
 ## :airplane\_small: Mise en place du système de rôle d'arrivée
 
-Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole status` et sélectionner "Activer" ou encore `john autorole status`  et sélectionner "Activer" et le tour est joué ! (voir image #1)
+Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole status` et sélectionner "Activer" et le tour est joué ! (voir image #1)
 
 ![Image #1](../.gitbook/assets/autoroleview.png)
 

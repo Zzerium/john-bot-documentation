@@ -8,4 +8,4 @@ La commande permet d'afficher toutes les commandes de John-Bot en plus des liens
 
 ![Image #1](../../../.gitbook/assets/Help.png)
 
-Syntaxe de la commande : \<Préfixe ou />help
+Syntaxe de la commande : /help
