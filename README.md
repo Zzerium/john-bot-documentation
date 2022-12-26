@@ -1,7 +1,7 @@
 ---
 description: >-
   Vous ne comprenez pas bien les diverses fonctionnalités de John-Bot ? Notre
-  documentation est là pour vous aider !
+  documentation est là pour vous aider ! (docs main)
 cover: .gitbook/assets/Bannière.png
 coverY: 0
 ---
