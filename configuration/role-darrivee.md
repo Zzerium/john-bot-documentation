@@ -10,7 +10,7 @@ description: >-
 
 Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/autorole status` et sélectionner "Activer" et le tour est joué ! (voir image #1)
 
-![Image #1](../.gitbook/assets/autoroleview.png)
+![Image #1](../.gitbook/assets/AutoRoleStatusEnable.png)
 
 ## :busts\_in\_silhouette: Ajouter un rôle d'arrivée
 
@@ -42,7 +42,7 @@ Pour mon exemple, je vais supprimer le rôle `@Utilisateur` de mes rôles d'arri
 
 Vous ne vous rappelez plus si vous avez activé le système de rôle d'arrivée ou encore quels rôles vous avez configurés ? Si c'est le cas vous n'avez qu'à exécuter la commande `/autorole list` ou encore `john autorole list` dans un salon textuel et le tour est joué ! (voir image #7)
 
-<figure><img src="../.gitbook/assets/AutoRoleView.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/AutoRoleList.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
 
 ## :x: Désactiver le système de rôle d'arrivée
 
@@ -52,4 +52,4 @@ Le système de rôle d'arrivée ne vous convient plus ? Si c'est le cas, vous n'
 Si le système de rôle d'arrivée ne vous convient plus, notre équipe se fera un plaisir de savoir pourquoi, afin de pouvoir l'améliorer !
 {% endhint %}
 
-![Image #8](../.gitbook/assets/AutoRoleDisable.png)
+![Image #8](../.gitbook/assets/AutoRoleStatusDisable.png)

@@ -8,7 +8,7 @@ La page du système de logs est actuellement en cours de création, cela prend d
 
 Pour débuter la configuration du système de logs, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel logs` dans un salon textuel afin d'avoir accès au panel de configuration du système de logs.\
 \
-Pour ce qui de l'activation du système de logs, vous n'avez qu'à cliquer sur le bouton "Activer le système de logs" (voir image #1) une fois le bouton enclenché, un message de confirmation sera envoyé. Voilà ! Le système de logs est activé sur votre serveur !&#x20;
+Pour ce qui de l'activation du système de logs, vous n'avez qu'à cliquer sur le bouton "Activer le système de logs" (voir image #1) une fois le bouton enclenché, un message de confirmation sera envoyé. Voilà ! Le système de logs est activé sur votre serveur.
 
 <figure><img src="../.gitbook/assets/EnableLogs.png" alt=""><figcaption><p>Image #1</p></figcaption></figure>
 
