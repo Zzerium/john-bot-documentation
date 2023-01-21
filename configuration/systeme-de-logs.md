@@ -48,12 +48,22 @@ Assurez-vous que John-Bot ait la permission d'envoyer les messages de logs dans 
 
 ## :page\_facing\_up: Voir la liste des salons ignorés
 
+Vous avez configuré un ou plusieurs salon(s) à ignorer par les logs il y a fort longtemps mais vous les avez complètement oublié(s) ? Pas de problème, une option est justement conçue pour cela ! Si ce n’est pas déjà fait, exécutez la commande `/panel logs` dans un salon textuel afin d'avoir accès au panel de configuration du système de logs.
+
+Ensuite, repérez le bouton "Configuration des salons à ignorer” (voir image #7) et appuyez sur le bouton. Une fois la bouton enclenché, le menu apparaîtra et les salons ignorés par le système de logs apparaitront sous le titre de l’embed (voir image #8). Si aucun salon n'est ignoré, le menu contiendra les instructions à suivre pour ajouter un salon à ignorer. (voir image #9).&#x20;
+
+<figure><img src="../.gitbook/assets/ConfigSalonIgnore.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ConfigSalonIgnoreMenu.png" alt=""><figcaption><p>Image #8</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ConfigSalonIgnoreMenuDisable.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
+
 ## :x: Désactiver le système de logs
 
 Le système de logs a été activé par mégarde, ou encore, vous n’en avez plus besoin et vous souhaitez le désactiver ? C’est possible, et ce, très simplement. Si ce n’est pas déjà le cas, vous devez exécuter la commande `/panel logs` dans un salon textuel afin d'avoir accès au panel de configuration du système de logs.
 
-Une fois le panel accessible, vous n'avez qu'à appuyer sur le bouton "Désactiver le système de logs" (voir l’image #7). Une fois le bouton enclenché, un message de confirmation vous sera envoyé (voir l’image #8). Voilà, c’est fait ! Le système de logs a été désactivé sur votre serveur.
+Une fois le panel accessible, vous n'avez qu'à appuyer sur le bouton "Désactiver le système de logs" (voir l’image #10). Une fois le bouton enclenché, un message de confirmation vous sera envoyé (voir l’image #11). Voilà, c’est fait ! Le système de logs a été désactivé sur votre serveur.
 
-<figure><img src="../.gitbook/assets/DisableLogsSystem.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DisableLogsSystem.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/DisableLogsSystemConfirm.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DisableLogsSystemConfirm.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
