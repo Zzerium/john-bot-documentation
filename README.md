@@ -16,7 +16,7 @@ Nous "Équipe John-Bot" vous conseillons d'utiliser les slashs commandes de John
 
 Bienvenue sur la documentation de John-Bot ! Elle est là dans le but de vous familiariser avec les diverses fonctionnalités que propose John-Bot.\
 \
-La documentation peut ne pas répondre à toutes vos questions, si c'est le cas n'hésitez pas à contacter l'équipe de John-Bot via notre adresse e-mail de contact [**team@johnbot.app**](mailto:team@johnbot.app) ou bien via notre serveur [**Discord**](https://discord.gg/abePbS7QKY) **!**
+La documentation peut ne pas répondre à toutes vos questions, si c'est le cas n'hésitez pas à contacter l'équipe de John-Bot via notre adresse e-mail de contact [**team@johnbot.app**](mailto:team@johnbot.app) ou bien via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
 
 ## :rocket: Ajouter John-Bot à votre serveur Discord
 
