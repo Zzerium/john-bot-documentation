@@ -8,7 +8,7 @@ La page du système de logs est actuellement en cours de création, cela prend d
 
 Pour débuter la configuration du système de logs, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel logs` dans un salon textuel afin d'avoir accès au panel de configuration du système de logs.\
 \
-Pour ce qui de l'activation du système de logs, vous n'avez qu'à cliquer sur le bouton "Activer le système de logs" (voir image #1) une fois le bouton enclenché, un message de confirmation sera envoyé. Voilà ! Le système de logs est activé sur votre serveur !
+Pour ce qui de l'activation du système de logs, vous n'avez qu'à appuyer sur le bouton "Activer le système de logs" (voir image #1) une fois le bouton enclenché, un message de confirmation vous sera envoyé. Voilà ! Le système de logs est activé sur votre serveur !
 
 <figure><img src="../.gitbook/assets/EnableLogs.png" alt=""><figcaption><p>Image #1</p></figcaption></figure>
 
@@ -36,6 +36,16 @@ Dans mon exemple, je vais configurer un salon de réception global. Je vais donc
 Assurez-vous que John-Bot ait la permission d'envoyer les messages de logs dans le salon configuré.
 {% endhint %}
 
+## :x: Désactiver le système de logs
+
+Le système de logs a été activé par mégarde, ou encore, vous n’en avez plus besoin et vous souhaitez le désactiver ? C’est possible, et ce, très simplement. Si ce n’est pas déjà le cas, vous devez exécuter la commande `/panel logs` dans un salon textuel afin d'avoir accès au panel de configuration du système de logs.
+
+Une fois le panel accessible, vous n'avez qu'à appuyer sur le bouton "Désactiver le système de logs" (voir l’image #7). Une fois le bouton enclenché, un message de confirmation vous sera envoyé (voir l’image #8). Voilà, c’est fait ! Le système de logs a été désactivé sur votre serveur.
+
+<figure><img src="../.gitbook/assets/DisableLogsSystem.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/DisableLogsSystemConfirm.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+
 ## :star: Ajouter des événements
 
 ## :wastebasket: Supprimer des événements
@@ -47,5 +57,3 @@ Assurez-vous que John-Bot ait la permission d'envoyer les messages de logs dans 
 ## :sound: Supprimer des salons ignorés
 
 ## :page\_facing\_up: Voir la liste des salons ignorés
-
-## :x: Désactiver le système de logs
