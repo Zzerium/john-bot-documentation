@@ -54,8 +54,8 @@
 
 ## Liens Utiles
 
-* [Inviter John-Bot](https://discord.com/oauth2/authorize?client\_id=958547309728256081\&scope=bot%20applications.commands\&permissions=545460321791)
 * [Site internet](https://johnbot.app/)
-* [Serveur Support](https://discord.gg/abePbS7QKY)
+* [Ajouter John-Bot](https://discord.com/oauth2/authorize?client\_id=958547309728256081\&scope=bot%20applications.commands\&permissions=545460321791)
+* [Serveur Discord](https://discord.gg/abePbS7QKY)
 * [Statut](https://status.johnbot.app/)
-* [Donation](https://buymeacoffee.com/johnbot)
+* [Soutenir John-Bot](https://buymeacoffee.com/johnbot)
