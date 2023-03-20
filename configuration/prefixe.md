@@ -1,12 +1,16 @@
 ---
 description: >-
-  John-Bot propose la fonctionnalité de changer le préfixe de John-Bot dans le
-  serveur où vous êtes
+  John-Bot vous propose de changer le préfixe de John-Bot dans le serveur où
+  vous êtes.
 ---
 
 # Préfixe
 
-## :satellite: Mise en place du préfixe
+{% hint style="warning" %}
+Nous "Équipe de John-Bot" vous conseillons d'utiliser les slashs commandes de John-Bot, les commandes à préfixe de John-Bot seront prochainement désactivé. De plus les slashs commandes sont beaucoup plus optimisé et intuitive. Si vous avez la moindre question, contactez nous via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
+{% endhint %}
+
+## ****:satellite: Mise en place du préfixe
 
 Pour débuter la configuration du préfixe de John-Bot, vous devez logiquement ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait, exécutez la commande `john setprefix` suivi du préfixe de votre choix.\
 \
