@@ -6,6 +6,6 @@ description: Ajoute un emoji au serveur.
 
 La commande Emojiadd permet d'ajouter un emoji au serveur. (voir image #1). La commande Emojiadd est aussi utilisable en slash commande.&#x20;
 
-![Image #1](../../../.gitbook/assets/Emojiadd.png)
+![Image #1](../../../.gitbook/assets/EmojiAdd.png)
 
-Syntaxe de la commande : /emoji add \<image> \<nom>
+Syntaxe de la commande : /emoji add \<nom> \<emoji ou image>

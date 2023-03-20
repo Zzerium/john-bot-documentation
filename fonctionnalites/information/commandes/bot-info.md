@@ -6,6 +6,6 @@ description: Affiche les informations concernant John-Bot.
 
 La commande Bot-info permet d'afficher les informations de John-Bot. (voir image #1). La commande Bot-info est aussi utilisable en slash commande.
 
-![Image #1](../../../.gitbook/assets/Botinfo.png)
+![Image #1](../../../.gitbook/assets/BotInfo.png)
 
 Syntaxe de la commande : /bot-info
