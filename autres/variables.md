@@ -7,7 +7,7 @@ description: >-
 # Variables
 
 {% hint style="info" %}
-Attention ! Ces variables sont seulement utilisables pour la configuration des messages d'arrivée et de départ.
+Attention ! Ces variables sont seulement utilisables pour la configuration des messages d'arrivée, de départ et la configuration de messages du système de ticket.
 {% endhint %}
 
 | Liste des variables | Description des variables                                                                           |
@@ -15,5 +15,5 @@ Attention ! Ces variables sont seulement utilisables pour la configuration des m
 | {user}              | Affiche le nom et le tag de l'utilisateur (Utilisateur#0001).                                       |
 | {user.name}         | Affiche le nom de l'utilisateur (Utilisateur).                                                      |
 | {user.mention}      | Affiche la mention de l'utilisateur (@Utilisateur).                                                 |
-| {server.name}       | Affiche le nom du serveur sur lequel l'utilisateur fait son arrivée ou son départ.                  |
+| {server.name}       | Affiche le nom du serveur sur lequel l'utilisateur fait son arrivée, son départ ou ouvre un ticket. |
 | {membercount}       | Affiche le nombre de membre(s) que compte le serveur après l'arrivée ou le départ de l'utilisateur. |
