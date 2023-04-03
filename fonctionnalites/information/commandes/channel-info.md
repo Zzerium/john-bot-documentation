@@ -4,7 +4,7 @@ description: Affiche les informations concernant un salon.
 
 # Channel-info
 
-La commande Channel-info permet d'afficher les informations d'un salon. (voir image #1). La commande Channel-info est aussi utilisable en slash commande.
+La commande Channel-info permet d'afficher les informations d'un salon. (voir image #1). La commande Channel-info est aussi utilisable en commande à préfixe.
 
 ![Image #1](../../../.gitbook/assets/Channelinfo.png)
 

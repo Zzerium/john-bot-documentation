@@ -4,7 +4,7 @@ description: Lance une partie du jeu du serpent.
 
 # Snake
 
-La commande Snake permet de lancer un partie du jeu du serpent, plus connu sous le nom de [Snake](https://fr.wikipedia.org/wiki/Snake\_\(genre\_de\_jeu\_vid%C3%A9o\)). (voir image #1). La commande Snake est aussi utilisable en slash commande.
+La commande Snake permet de lancer un partie du jeu du serpent, plus connu sous le nom de [Snake](https://fr.wikipedia.org/wiki/Snake\_\(genre\_de\_jeu\_vid%C3%A9o\)). (voir image #1). La commande Snake est aussi utilisable en commande à préfixe.
 
 ![Image #1](../../../.gitbook/assets/Snake.png)
 
