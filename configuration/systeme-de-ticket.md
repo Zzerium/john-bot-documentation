@@ -17,3 +17,13 @@ La page du système de ticket est actuellement en cours de création, cela prend
 ## Modifier un embed
 
 ## Supprimer un embed
+
+## :toolbox: Commandes du système de tickets <a href="#commandes" id="commandes"></a>
+
+Les commandes du système de tickets sont un moyen alternatif à la gestion des tickets.
+
+### :busts\_in\_silhouette: Commande Add
+
+La commande Add permet d'ajouter un membre au ticket (voir image #1).
+
+Syntaxe de la commande : /add \<Membre>
