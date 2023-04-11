@@ -16,4 +16,5 @@ Attention ! Ces variables sont seulement utilisables pour la configuration des m
 | {user.name}         | Affiche le nom de l'utilisateur (Utilisateur).                                                      |
 | {user.mention}      | Affiche la mention de l'utilisateur (@Utilisateur).                                                 |
 | {server.name}       | Affiche le nom du serveur sur lequel l'utilisateur fait son arrivée, son départ ou ouvre un ticket. |
-| {membercount}       | Affiche le nombre de membre(s) que compte le serveur après l'arrivée ou le départ de l'utilisateur. |
+| {membercount}       | Affiche le nombre de membres que compte le serveur après l'arrivée ou le départ de l'utilisateur.   |
+| {ticketnumber}      | Affiche le nombre de tickets ouvert sur le panel en plus de après l'ouverture du ticket.            |
