@@ -8,7 +8,7 @@ description: >-
 
 ## :wave: Mise en place du système de message de départ
 
-Pour débuter la configuration du système de départ, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel leave` <mark style="color:blue;"></mark> dans un salon textuel afin d'avoir accès au panel de configuration du système de départ.\
+Pour débuter la configuration du système de départ, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel leave` dans un salon textuel afin d'avoir accès au panel de configuration du système de départ.\
 \
 Pour ce qui de l'activation du système de départ, vous n'avez qu'à cliquer sur le bouton "Activer le message de départ" (voir image #1) une fois le bouton enclenché, vous devez indiquer le salon qui recevra les messages d'arrivée (voir image #2). Voilà ! Le système de départ est activé sur votre serveur ! &#x20;
 
@@ -22,7 +22,7 @@ Assurez-vous que John-Bot ait la permission d'envoyer le message de départ dans
 
 ## :art: Configuration du message de départ
 
-C'est super d'activer le système d'arrivée, mais entre nous, le message de base n'est pas bien beau. C'est là qu'entre en jeu la configuration du message de départ ! Si ce n'est pas déjà fait, vous devez exécuter la commande `/panel leave` <mark style="color:blue;"></mark> dans un salon textuel afin d'avoir accès au panel de configuration du système de départ. \
+C'est super d'activer le système d'arrivée, mais entre nous, le message de base n'est pas bien beau. C'est là qu'entre en jeu la configuration du message de départ ! Si ce n'est pas déjà fait, vous devez exécuter la commande `/panel leave` dans un salon textuel afin d'avoir accès au panel de configuration du système de départ. \
 \
 Une fois la commande exécutée, vous devez vous servir du menu (voir image #3) de cette dernière afin de configurer votre message de départ à votre guise.\
 \

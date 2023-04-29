@@ -13,7 +13,6 @@
     * [Lock](fonctionnalites/moderation/commandes/lock.md)
     * [Unlock](fonctionnalites/moderation/commandes/unlock.md)
     * [Clear](fonctionnalites/moderation/commandes/clear.md)
-    * [Nuke](fonctionnalites/moderation/commandes/nuke.md)
 * [Information](fonctionnalites/information/README.md)
   * [Commandes](fonctionnalites/information/commandes/README.md)
     * [Server-info](fonctionnalites/information/commandes/server-info.md)

@@ -10,9 +10,9 @@ description: >-
 Nous "Équipe de John-Bot" vous conseillons d'utiliser les slashs commandes de John-Bot, les commandes à préfixe de John-Bot seront prochainement désactivé. De plus les slashs commandes sont beaucoup plus optimisé et intuitive. Si vous avez la moindre question, contactez nous via notre serveur [**Discord**](https://discord.gg/abePbS7QKY)**.**
 {% endhint %}
 
-## ****:satellite: Mise en place du préfixe
+## :satellite: Mise en place du préfixe
 
-Pour débuter la configuration du préfixe de John-Bot, vous devez logiquement ajouter John-Bot à votre serveur pour ce faire consultez le **** [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait, exécutez la commande `john setprefix` suivi du préfixe de votre choix.\
+Pour débuter la configuration du préfixe de John-Bot, vous devez logiquement ajouter John-Bot à votre serveur pour ce faire consultez le [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait, exécutez la commande `john setprefix` suivi du préfixe de votre choix.\
 \
 Pour mon exemple, je vais définir `!` comme nouveau préfixe pour John-Bot, je vais donc exécutez la commande `john setprefix` et indiquer `!` (voir image #1). Puis je vais exécuter la commande, suite à cette action John-Bot confirmera le changement de préfixe (voir image #2).
 
