@@ -60,6 +60,8 @@ Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans l
 
 Afin de configurer un ou plusieurs rôles à mentionner lors de la création du ticket (max. 3), rendez vous dans la case "Rôle·s à mentionner lors de l'ouverture" puis effectuer les mêmes étapes que dans la partie [**Configurer un ou plusieurs rôles d'assistance**](systeme-de-ticket.md#configurer-un-ou-plusieurs-roles-dassistance).
 
+### Configurer une catégorie d'ouverture
+
 ## :earth\_americas: Modifier un panneau
 
 ## :earth\_americas: Supprimer un panneau
