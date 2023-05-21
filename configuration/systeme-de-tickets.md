@@ -1,4 +1,4 @@
-# Système de ticket
+# Système de tickets
 
 {% hint style="warning" %}
 La page du système de ticket est actuellement en cours de création, cela prend du temps ! Si vous avez une question sur le système de ticket venez la poser sur le [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
@@ -52,15 +52,19 @@ Afin de configurer un nom pour le panneau, rendez vous dans la case "Nom du pann
 
 ### Configurer un ou plusieurs rôles d'assistance
 
-Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaité (voir image #9).
+Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #9).
 
 <figure><img src="../.gitbook/assets/TeamRolesTickets.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
 
 ### Configurer un ou plusieurs rôles à mentionner&#x20;
 
-Afin de configurer un ou plusieurs rôles à mentionner lors de la création du ticket (max. 3), rendez vous dans la case "Rôle·s à mentionner lors de l'ouverture" puis effectuer les mêmes étapes que dans la partie [**Configurer un ou plusieurs rôles d'assistance**](systeme-de-ticket.md#configurer-un-ou-plusieurs-roles-dassistance).
+Afin de configurer un ou plusieurs rôles à mentionner lors de la création du ticket (max. 3), rendez vous dans la case "Rôle·s à mentionner lors de l'ouverture" puis effectuer les mêmes étapes que dans la partie [**Configurer un ou plusieurs rôles d'assistance**](systeme-de-tickets.md#configurer-un-ou-plusieurs-roles-dassistance).
 
-### Configurer une catégorie d'ouverture
+### Configurer une catégorie de création
+
+Pour configurer une catégorie de création des tickets rendez vous dans la case "Catégorie de création des tickets" puis cliquez sur le menu de sélection et sélectionnez la catégorie souhaitée (voir image #10).&#x20;
+
+<figure><img src="../.gitbook/assets/SelectCategoryTickets.png" alt=""><figcaption><p>Image #10</p></figcaption></figure>
 
 ## :earth\_americas: Modifier un panneau
 
