@@ -36,7 +36,11 @@ La manipulation indiqué l'exemple ci-dessus, reste la même pour toutes les aut
 Lors la configuration de votre message d'arrivée est très fortement recommandé de consulté le [**guide des variables**](../autres/variables.md).
 {% endhint %}
 
-![Image #3](../.gitbook/assets/Configdepart.png)
+<div align="center">
+
+<img src="../.gitbook/assets/Configdepart.png" alt="Image #3">
+
+</div>
 
 ![Image #4](../.gitbook/assets/menudepart.png)
 

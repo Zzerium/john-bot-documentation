@@ -2,10 +2,10 @@
 description: Affiche le nombre de membres que compte le serveur.
 ---
 
-# Membercount
+# Server Members
 
-La commande Membercount permet d'afficher le nombre de membres que possède le serveur où la commande a été exécutée. (voir image #1). La commande Membercount est aussi utilisable en commande à préfixe.
+La commande Server Members permet d'afficher le nombre de membres que possède le serveur où la commande a été exécutée. (voir image #1).
 
-![Image #1](../../../.gitbook/assets/Membercount.png)
+Syntaxe de la commande : /server members
 
-Syntaxe de la commande : /membercount&#x20;
+![Image #1](../../../.gitbook/assets/ServerMembers.png)

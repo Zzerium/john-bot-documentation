@@ -2,10 +2,10 @@
 description: Affiche les informations concernant John-Bot.
 ---
 
-# Bot-info
+# Bot Info
 
-La commande Bot-info permet d'afficher les informations de John-Bot. (voir image #1). La commande Bot-info est aussi utilisable en commande à préfixe.
+La commande Bot Info permet d'afficher les informations de John-Bot. (voir image #1).
 
-![Image #1](../../../.gitbook/assets/Botinfo.png)
+Syntaxe de la commande : /bot info
 
-Syntaxe de la commande : /bot-info
+![Image #1](../../../.gitbook/assets/BotInfo.png)
