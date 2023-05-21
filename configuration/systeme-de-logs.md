@@ -1,3 +1,9 @@
+---
+description: >-
+  John-Bot propose un système de logs permettant de logger la plupart des
+  événements se produisant sur un serveur.
+---
+
 # Système de logs
 
 {% hint style="warning" %}

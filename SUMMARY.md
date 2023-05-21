@@ -47,11 +47,11 @@
 
 ## Configuration
 
+* [Système de ticket](configuration/systeme-de-ticket.md)
 * [Message d'arrivée](configuration/systeme-darrivee.md)
 * [Message de départ](configuration/systeme-de-depart.md)
 * [Système de rôle d'arrivée](configuration/role-darrivee.md)
 * [Système de logs](configuration/systeme-de-logs.md)
-* [Système de ticket](configuration/systeme-de-ticket.md)
 * [Préfixe](configuration/prefixe.md)
 
 ## Autres
