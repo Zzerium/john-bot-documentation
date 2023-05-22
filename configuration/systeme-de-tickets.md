@@ -247,7 +247,15 @@ Pour modifier un panneau, il vous suffit d'appuyer le sur le bouton "Modifier" �
 
 <figure><img src="../.gitbook/assets/PanelEditTickets.png" alt=""><figcaption><p>Image #42</p></figcaption></figure>
 
-## :earth\_americas: Supprimer un panneau
+## :wastebasket: Supprimer un panneau
+
+{% hint style="danger" %}
+Lorsque vous supprimez un panneau, toutes ses données associées seront supprimées et sont irrécupérables.
+{% endhint %}
+
+Pour supprimer un panneau, il vous suffit d'appuyer le sur le bouton "Supprimer" à droite du panneau (voir image #43).
+
+<figure><img src="../.gitbook/assets/PanelDeleteTickets.png" alt=""><figcaption><p>Image #43</p></figcaption></figure>
 
 ## :earth\_americas: Créer un embed
 
