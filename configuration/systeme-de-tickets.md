@@ -14,7 +14,7 @@ La page du système de tickets est actuellement en cours de création, cela pren
 
 ### Logs
 
-Les logs du système de tickets sont très utiles, elles permettent, lorsqu'un ticket est fermé d'avoir quelques informations sur ce dernier (voir image #1). Afin d'activer les logs, rien de plus simple il vous suffit de cocher la case "Activer/Désactiver les logs" (voir image #2) puis d'indiquer un salon d'envoie des logs (voir image #3) puis, sauvegarder via la notification de modifications (voir image #4)
+Les logs du système de tickets sont très utiles, elles permettent, lorsqu'un ticket est fermé d'avoir quelques informations sur ce dernier (voir image #1). Afin d'activer les logs, rien de plus simple il vous suffit de cocher la case "Activer les logs" (voir image #2) puis d'indiquer un salon d'envoie des logs (voir image #3) puis, sauvegarder via la notification de modifications (voir image #4)
 
 <figure><img src="../.gitbook/assets/TicketsLogs.png" alt=""><figcaption><p>image #1</p></figcaption></figure>
 
@@ -36,7 +36,7 @@ La limite de tickets du système de tickets définie combien de tickets peuvent 
 Si les logs et/ou qu'aucun salon de logs n'est défini, les transcriptions seront désactivées.
 {% endhint %}
 
-Les transcriptions de tickets peuvent s'avérer très pratique, afin des les activer, il vous suffit de cocher la case "Activer/Désactiver les transcriptions" (voir image #6) puis sauvegarder.
+Les transcriptions de tickets peuvent s'avérer très pratique, afin des les activer, il vous suffit de cocher la case "Activer les transcriptions" (voir image #6) puis sauvegarder.
 
 <figure><img src="../.gitbook/assets/EnableDisableTranscriptsTickets.png" alt=""><figcaption><p>Image #6</p></figcaption></figure>
 
@@ -88,7 +88,7 @@ Pour définir un modèle lié au panneau, vous devez d'abord créer un modèle, 
 
 #### Activer l'assignation des tickets
 
-Afin d'activer l'assignation "claim" des tickets, vous n'avez qu'à cocher la case "Activer l'assignation des tickets Activer le rappel d'inactivité" (voir image #13).
+Afin d'activer l'assignation "claim" des tickets, vous n'avez qu'à cocher la case "Activer l'assignation des tickets" (voir image #13).
 
 <figure><img src="../.gitbook/assets/EnableDisableClaimTickets.png" alt=""><figcaption><p>Image #13</p></figcaption></figure>
 
@@ -172,6 +172,74 @@ Afin de configurer les permissions, rendez vous dans la section "Permissions du 
 Si vous souhaitez revoir vos permissions et ne pas perdre de temps à désélectionner tous les rôles un par un, vous n'avez qu'à cliquer sur le bouton "Réinitialiser toutes les permissions" (voir image #27).
 
 <figure><img src="../.gitbook/assets/DeletePermsButtonTickets.png" alt=""><figcaption><p>Image #27</p></figcaption></figure>
+
+### Message d'ouverture
+
+{% hint style="info" %}
+Tout au long de votre configuration du message d'ouverture, vous pouvez utiliser les variables, disponible dans le [**guide des variables**](../autres/variables.md).
+{% endhint %}
+
+Pour configurer le message d'ouverture, rendez vous dans la section "Message d'ouverture" du sélecteur (voir image #28).
+
+<figure><img src="../.gitbook/assets/MessageOuvertureSelectionTickets.png" alt=""><figcaption><p>Image #28</p></figcaption></figure>
+
+#### Contenu du message d'ouverture
+
+Le contenu du message d'ouverture, c'est le texte qui va s'afficher en haut de l'embed d'ouverture (voir image #29). Afin de le configurer, rendez vous dans la zone de texte "Contenu du message d'ouverture" (voir image #30), puis indiquez le message d'ouverture souhaité.
+
+<figure><img src="../.gitbook/assets/ContentMessageTickets.png" alt=""><figcaption><p>Image #29</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ZoneTextContentMessageOuvertureTickets.png" alt=""><figcaption><p>Image #30</p></figcaption></figure>
+
+### Embed d'ouverture
+
+{% hint style="info" %}
+Tout au long de votre configuration de l'embed d'ouverture, vous pouvez utiliser les variables, disponible dans le [**guide des variables**](../autres/variables.md).
+{% endhint %}
+
+Pour configurer l'embed d'ouverture, rendez vous dans la section "Embed d'ouverture" du sélecteur (voir image #31).
+
+<figure><img src="../.gitbook/assets/EmbedOuvertureSelectionTickets.png" alt=""><figcaption><p>Image #31</p></figcaption></figure>
+
+#### Activer l'embed d'ouverture
+
+Afin d'activer l'embed d'ouverture, vous n'avez qu'à cocher la case "Activer l'embed d'ouverture" (voir image #32).
+
+<figure><img src="../.gitbook/assets/EnableDisableOpenEmbedTickets.png" alt=""><figcaption><p>Image #32</p></figcaption></figure>
+
+#### Titre de l'embed d'ouverture
+
+Le titre de l'embed d'ouverture, c'est le titre qui va s'afficher en premier dans l'embed d'ouverture (voir image #33). Afin de le configurer, rendez vous dans le champ de texte "Titre de l'embed d'ouverture" (voir image#34) puis indiquez le titre souhaité.
+
+<figure><img src="../.gitbook/assets/TitleEmbedOpenTickets.png" alt=""><figcaption><p>Image #33</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/EmbedTitleOpenTickets.png" alt=""><figcaption><p>Image #34</p></figcaption></figure>
+
+#### Contenu de l'embed d'ouverture
+
+Le contenu de l'embed d'ouverture, c'est la description de l'embed qui va s'afficher dans le milieu dans l'embed d'ouverture (voir image #35). Afin de configurer le contenu de l'embed, rendez vous dans la zone de texte "Contenu de l'embed d'ouverture" (voir image #36) puis indiquez le contenu souhaité.
+
+<figure><img src="../.gitbook/assets/ContentEmbedOpenTickets.png" alt=""><figcaption><p>Image #35</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ContentTextEmbedOpenTickets.png" alt=""><figcaption><p>Image #36</p></figcaption></figure>
+
+#### Couleur de l'embed d'ouverture
+
+La couleur de l'embed d'ouverture, c'est la petite bordure à gauche de l'embed d'ouverture (voir image #37). Pour configurer cette couleur, rendez vous dans la section "Couleur de l'embed d'ouverture" puis, servez vous soit des petites pastilles de couleur (voir image #38) ou encore du sélecteur de couleur (voir image #39).
+
+<figure><img src="../.gitbook/assets/ColorEmbedOpenTickets.png" alt=""><figcaption><p>Image #37</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ColorBasicOpenEmbedTickets.png" alt=""><figcaption><p>Image #38</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ColorSelectOpenEmbedTickets.png" alt=""><figcaption><p>Image #39</p></figcaption></figure>
+
+#### Image de l'embed d'ouverture
+
+L'image l'embed d'ouverture, c'est la bannière de l'embed qui va s'afficher en bas de l'embed d'ouverture (voir image #40). Afin de configurer cette image, rendez vous dans le champ de texte "Lien de l'image de l'embed d'ouverture" (voir image #41) puis indiquez le lien de l'image souhaité.
+
+<figure><img src="../.gitbook/assets/ImageEmbedOpenTickets.png" alt=""><figcaption><p>Image #40</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/OpenEmbedImageTickets.png" alt=""><figcaption><p>Image #41</p></figcaption></figure>
 
 ## :earth\_americas: Modifier un panneau
 
