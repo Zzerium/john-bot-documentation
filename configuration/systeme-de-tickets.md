@@ -1,7 +1,13 @@
+---
+description: >-
+  John-Bot propose un système de tickets permettant aux membres d'un serveur
+  d'avoir un échange avec les membres de l'équipe du serveur.
+---
+
 # Système de tickets
 
 {% hint style="warning" %}
-La page du système de ticket est actuellement en cours de création, cela prend du temps ! Si vous avez une question sur le système de ticket venez la poser sur le [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
+La page du système de tickets est actuellement en cours de création, cela prend du temps ! Si vous avez une question sur le système de ticket venez la poser sur le [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
 {% endhint %}
 
 ## :earth\_americas: Configuration Globale

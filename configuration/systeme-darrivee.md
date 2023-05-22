@@ -4,9 +4,9 @@ description: >-
   utilisateur sur un serveur Discord dans un salon au choix.
 ---
 
-# Message d'arrivée
+# Messages d'arrivée
 
-## :wave: Mise en place du système de message d'arrivée
+## :wave: Mise en place du système de messages d'arrivée
 
 Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel join` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée.\
 \

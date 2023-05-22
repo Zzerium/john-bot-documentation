@@ -4,9 +4,9 @@ description: >-
   utilisateur sur un serveur Discord dans un salon au choix.
 ---
 
-# Message de départ
+# Messages de départ
 
-## :wave: Mise en place du système de message de départ
+## :wave: Mise en place du système de messages de départ
 
 Pour débuter la configuration du système de départ, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel leave` dans un salon textuel afin d'avoir accès au panel de configuration du système de départ.\
 \
