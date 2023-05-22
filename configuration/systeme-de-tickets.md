@@ -46,7 +46,7 @@ Afin de créer un panneau, il vous suffit d'appuyez sur la case "Créer un panne
 
 <figure><img src="../.gitbook/assets/CreatePanelTickets.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
 
-### Configurer les options du panneau
+### Options du panneau
 
 #### Configurer un nom pour le panneau
 
@@ -113,6 +113,38 @@ L'avertissement en message privé envoie un message privé au membre ayant cré�
 Si la gestion du ticket exclusive est activée, lorsqu'un ticket est assigné à un membre de l'équipe d'assistance, il sera impossible pour les autres membres de l'équipe d'écrire dans le ticket, afin de ne pas nuire à la compréhension du ticket. Pour activer la gestion du ticket exclusive, vous n'avez qu'à cocher la case "Activer la gestion du ticket exclusive" (voir image #18)
 
 <figure><img src="../.gitbook/assets/ExclusiveManagementTickets.png" alt=""><figcaption><p>Image #18</p></figcaption></figure>
+
+### Bouton du panneau
+
+#### Configurer le label du bouton
+
+Le label du bouton, c'est le texte affiché sur ce dernier (voir image #19). Afin de configurer ce court texte, rendez dans le champ de texte "Label du bouton" (voir image #20) puis indiquez le label souhaitez.
+
+<figure><img src="../.gitbook/assets/ButtonLabelTickets.png" alt=""><figcaption><p>Image #19</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ButtonLabelTextTickets.png" alt=""><figcaption><p>Image #20</p></figcaption></figure>
+
+#### Configurer l'émoji du bouton
+
+{% hint style="info" %}
+Pour utiliser un émoji personnalisé, vous n'avez qu'à indiquer l'identifiant de cet émoji dans le champ de texte.
+{% endhint %}
+
+L'émoji du bouton, c'est l'émoji affiché au côté du texte (voir image #21). Pour le configurer, rendez dans le champ de texte "Émoji du bouton" (voir image #22) puis indiquez l'émoji souhaitez, pour s'y faire vous pouvez vous aider du sélecteur d'émoji (voir image #23).
+
+<figure><img src="../.gitbook/assets/ButtonEmojiTickets.png" alt=""><figcaption><p>Image #21</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ButtonEmojiTextTickets.png" alt=""><figcaption><p>Image #22</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/EmojiSelectTickets.png" alt=""><figcaption><p>Image #23</p></figcaption></figure>
+
+#### Couleur du bouton
+
+Afin de définir la couleur du bouton, rendez vous dans la section "Couleur du bouton" (voir image #24) puis cliquez sur la couleur souhaitez.
+
+<figure><img src="../.gitbook/assets/SelectColorsTickets.png" alt=""><figcaption><p>Image #24</p></figcaption></figure>
+
+### Permissions du panneau
 
 ## :earth\_americas: Modifier un panneau
 
