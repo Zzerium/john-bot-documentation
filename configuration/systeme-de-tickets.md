@@ -76,7 +76,7 @@ Pour configurer une catégorie de création des tickets rendez vous dans la case
 
 #### Configurer le nom du ticket
 
-Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket"  puis indiquez le nom du ticket (voir image #11). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
+Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket" puis indiquez le nom du ticket (voir image #11). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
 
 <figure><img src="../.gitbook/assets/TicketNameTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
 
@@ -241,7 +241,11 @@ L'image l'embed d'ouverture, c'est la bannière de l'embed qui va s'afficher en 
 
 <figure><img src="../.gitbook/assets/OpenEmbedImageTickets.png" alt=""><figcaption><p>Image #41</p></figcaption></figure>
 
-## :earth\_americas: Modifier un panneau
+## :pencil2: Modifier un panneau
+
+Pour modifier un panneau, il vous suffit d'appuyer le sur le bouton "Modifier" à droite du panneau (voir image #42) puis suivre les mêmes indications que pour la [**création d'un panneau**](systeme-de-tickets.md#creer-un-panneau).
+
+<figure><img src="../.gitbook/assets/PanelEditTickets.png" alt=""><figcaption><p>Image #42</p></figcaption></figure>
 
 ## :earth\_americas: Supprimer un panneau
 
