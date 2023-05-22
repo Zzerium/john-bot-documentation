@@ -146,6 +146,33 @@ Afin de définir la couleur du bouton, rendez vous dans la section "Couleur du b
 
 ### Permissions du panneau
 
+#### Liste des permissions :
+
+* **Créer un ticket**\
+  Permission de créer un ticket. Par défaut : Tout le monde.
+* **Réclamer le ticket**\
+  Permission de réclamer "claim" le ticket. Par défaut : Membres ayant les rôles de l'équipe d'assistance.&#x20;
+* **(Re)Ouvrir le ticket**\
+  Permission de (re)ouvrir le ticket fermé. Par défaut : Tout le monde.&#x20;
+* **Fermer le ticket**\
+  Permission de fermer le ticket. Par défaut : Tout le monde.&#x20;
+* **Supprimer le ticket**\
+  Permission de supprimer le ticket. Par défaut : Membres ayant les rôles de l'équipe d'assistance.&#x20;
+
+#### Configurer les rôles des permissions
+
+Afin de configurer les permissions, rendez vous dans la section "Permissions du panneau" (voir image #25) puis dans le menu de sélection de la permission souhaité (voir image #26) et sélectionnez tous les rôles souhaités (max. 3)
+
+<figure><img src="../.gitbook/assets/PermsSectionTickets.png" alt=""><figcaption><p>Image #25</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/SelectPermsTickets.png" alt=""><figcaption><p>Image #26</p></figcaption></figure>
+
+#### Réinitialiser les permissions
+
+Si vous souhaitez revoir vos permissions et ne pas perdre de temps à désélectionner tous les rôles un par un, vous n'avez qu'à cliquer sur le bouton "Réinitialiser toutes les permissions" (voir image #27).
+
+<figure><img src="../.gitbook/assets/DeletePermsButtonTickets.png" alt=""><figcaption><p>Image #27</p></figcaption></figure>
+
 ## :earth\_americas: Modifier un panneau
 
 ## :earth\_americas: Supprimer un panneau
