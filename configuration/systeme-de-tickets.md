@@ -27,7 +27,7 @@ La limite de tickets du système de tickets définie combien de tickets peuvent 
 ### Transcriptions
 
 {% hint style="warning" %}
-Si les logs et/ou qu'aucun salon de logs n'est défini, les transcriptions seront désactivées
+Si les logs et/ou qu'aucun salon de logs n'est défini, les transcriptions seront désactivées.
 {% endhint %}
 
 Les transcriptions de tickets peuvent s'avérer très pratique, afin des les activer, il vous suffit de cocher la case "Activer/Désactiver les transcriptions" (voir image #6) puis sauvegarder.
