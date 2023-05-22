@@ -46,7 +46,7 @@ Afin de créer un panneau, il vous suffit d'appuyez sur la case "Créer un panne
 Si vous souhaitez avoir des panneaux triés dans un ordre bien précis, indiquez A, B, C etc.. devant les noms de panneau afin qu'ils soient triés selon votre ordre sur l'embed.
 {% endhint %}
 
-Afin de configurer un nom pour le panneau, rendez vous dans la case "Nom du panneau" puis indiquez un nom.
+Afin de configurer un nom pour le panneau, rendez vous dans la champ de texte "Nom du panneau" puis indiquez un nom.
 
 <figure><img src="../.gitbook/assets/CreatePanelNameTickets.png" alt=""><figcaption><p>Image #8</p></figcaption></figure>
 
@@ -65,6 +65,46 @@ Afin de configurer un ou plusieurs rôles à mentionner lors de la création du 
 Pour configurer une catégorie de création des tickets rendez vous dans la case "Catégorie de création des tickets" puis cliquez sur le menu de sélection et sélectionnez la catégorie souhaitée (voir image #10).&#x20;
 
 <figure><img src="../.gitbook/assets/SelectCategoryTickets.png" alt=""><figcaption><p>Image #10</p></figcaption></figure>
+
+### Configurer le nom du ticket
+
+Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket"  puis indiquez le nom du ticket (voir image #11). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
+
+<figure><img src="../.gitbook/assets/TicketNameTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
+
+### Configurer un modèle lié au panneau
+
+Pour définir un modèle lié au panneau, vous devez d'abord créer un modèle, pour ce faire référez vous au [**guide de création d'un modèle**](systeme-de-tickets.md#creer-un-modele). Une fois votre modèle mis en place, vous n'avez qu'à cliquer sur le menu de sélection et sélectionner le modèle souhaité (voir image #12).&#x20;
+
+<figure><img src="../.gitbook/assets/SelectModalTickets.png" alt=""><figcaption><p>Image #12</p></figcaption></figure>
+
+### Activer l'assignation des tickets
+
+Afin d'activer l'assignation "claim" des tickets, vous n'avez qu'à cocher la case "Activer l'assignation des tickets Activer le rappel d'inactivité" (voir image #13).
+
+<figure><img src="../.gitbook/assets/EnableDisableClaimTickets.png" alt=""><figcaption><p>Image #13</p></figcaption></figure>
+
+### Activer le rappel d'inactivité
+
+Le rappel d'inactivité envoie un message dans un ticket qui n'a pas reçu de nouveau message depuis une semaine ou plus. Ce rappel n'est envoyé qu'une fois par ticket et a pour but de rappeler la présence d'un ticket tombé aux oubliettes (voir image #14). Afin d'activer ce rappel, vous n'avez qu'à cocher la case "Activer le rappel d'inactivité" (voir image #15)
+
+<figure><img src="../.gitbook/assets/InacRappelTickets.png" alt=""><figcaption><p>Image #14</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/EnableDisableRmdTickets.png" alt=""><figcaption><p>Image #15</p></figcaption></figure>
+
+### Activer l'avertissement en message privé
+
+L'avertissement en message privé envoie un message privé au membre ayant créé le ticket, ce message contient quelques informations sur le ticket (voir image #16). Afin d'activer ce rappel, vous n'avez qu'à cocher la case "Activer l'avertissement en message privé" (voir image #17)
+
+<figure><img src="../.gitbook/assets/DmLogsTickets.png" alt=""><figcaption><p>Image #16</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/EnableDisableDmLogsTickets.png" alt=""><figcaption><p>Image #17</p></figcaption></figure>
+
+### Activer la gestion du ticket exclusive
+
+Si la gestion du ticket exclusive est activée, lorsqu'un ticket est assigné à un membre de l'équipe d'assistance, il sera impossible pour les autres membres de l'équipe d'écrire dans le ticket, afin de ne pas nuire à la compréhension du ticket. Pour activer la gestion du ticket exclusive, vous n'avez qu'à cocher la case "Activer la gestion du ticket exclusive" (voir image #18)
+
+<figure><img src="../.gitbook/assets/ExclusiveManagementTickets.png" alt=""><figcaption><p>Image #18</p></figcaption></figure>
 
 ## :earth\_americas: Modifier un panneau
 
