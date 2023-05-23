@@ -1,8 +1,8 @@
 ---
-description: Liste des noms de domaines officiels utilisés par John-Bot
+description: Liste des noms de domaine officiels utilisés par John-Bot
 ---
 
-# Noms de Domaines
+# Noms de Domaine
 
 Certaines personnes créent des noms de domaine similaires à ceux utilisés par John-Bot à des fins malveillantes. Pour le moment, John-Bot utilise seulement trois noms de domaine répertoriés dans la liste ci-dessous.
 
