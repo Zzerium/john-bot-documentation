@@ -57,7 +57,7 @@
 ## Autres
 
 * [Variables](autres/variables.md)
-* [Noms de Domaines Officiels](autres/noms-de-domaines-officiels.md)
+* [Noms de Domaines](autres/noms-de-domaines.md)
 
 ## Liens Utiles
 
