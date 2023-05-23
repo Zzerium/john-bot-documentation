@@ -1,10 +1,10 @@
 ---
 description: >-
   John-Bot propose un système de logs permettant de logger la plupart des
-  événements se produisant sur un serveur.
+  événements se produisant sur un serveur
 ---
 
-# Système de logs
+# Système de Logs
 
 {% hint style="warning" %}
 La page du système de logs est actuellement en cours de création, cela prend du temps ! Si vous avez une question sur le système de logs venez la poser sur le [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !

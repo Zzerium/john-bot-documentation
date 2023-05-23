@@ -1,10 +1,10 @@
 ---
 description: >-
   John-Bot propose un système d'arrivée permettant de notifié l'arrivée d'un
-  utilisateur sur un serveur Discord dans un salon au choix.
+  utilisateur sur un serveur Discord dans un salon au choix
 ---
 
-# Messages d'arrivée
+# Messages d'Arrivée
 
 ## :wave: Mise en place du système de messages d'arrivée
 

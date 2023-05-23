@@ -1,10 +1,10 @@
 ---
 description: >-
   John-Bot propose un système de départ permettant de notifié l'arrivée d'un
-  utilisateur sur un serveur Discord dans un salon au choix.
+  utilisateur sur un serveur Discord dans un salon au choix
 ---
 
-# Messages de départ
+# Messages de Départ
 
 ## :wave: Mise en place du système de messages de départ
 

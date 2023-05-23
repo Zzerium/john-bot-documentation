@@ -1,7 +1,7 @@
 ---
 description: >-
   John-Bot vous propose de changer le préfixe de John-Bot dans le serveur où
-  vous êtes.
+  vous êtes
 ---
 
 # Préfixe

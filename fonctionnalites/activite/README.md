@@ -1,7 +1,7 @@
 ---
 description: >-
   John-Bot est un robot qui touche à la plupart des domaines, même aux mini-jeux
-  (activité).
+  (activité)
 ---
 
 # Activité
