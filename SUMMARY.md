@@ -47,16 +47,17 @@
 
 ## Configuration
 
-* [Système de tickets](configuration/systeme-de-tickets.md)
-* [Messages d'arrivée](configuration/systeme-darrivee.md)
-* [Messages de départ](configuration/systeme-de-depart.md)
-* [Système de rôles d'arrivée](configuration/role-darrivee.md)
-* [Système de logs](configuration/systeme-de-logs.md)
+* [Système de Tickets](configuration/systeme-de-tickets.md)
+* [Messages d'Arrivée](configuration/systeme-darrivee.md)
+* [Messages de Départ](configuration/systeme-de-depart.md)
+* [Système de Rôles d'Arrivée](configuration/role-darrivee.md)
+* [Système de Logs](configuration/systeme-de-logs.md)
 * [Préfixe](configuration/prefixe.md)
 
 ## Autres
 
 * [Variables](autres/variables.md)
+* [Noms de Domaines Officiels](autres/noms-de-domaines-officiels.md)
 
 ## Liens Utiles
 

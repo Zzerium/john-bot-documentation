@@ -1,7 +1,7 @@
 ---
 description: >-
-  Créez vos propres messages d'arrivée et de départ et personnaliser les au
-  maximum avec les variables !
+  Liste des variables disponibles à utiliser dans la configuration du système de
+  tickets, de messages d'arrivée et de messages de départ
 ---
 
 # Variables
