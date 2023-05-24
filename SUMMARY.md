@@ -52,7 +52,6 @@
 * [Messages de Départ](configuration/systeme-de-depart.md)
 * [Système de Rôles d'Arrivée](configuration/role-darrivee.md)
 * [Système de Logs](configuration/systeme-de-logs.md)
-* [Préfixe](configuration/prefixe.md)
 
 ## Autres
 
