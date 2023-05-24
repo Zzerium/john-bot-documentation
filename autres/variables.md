@@ -7,7 +7,7 @@ description: >-
 # Variables
 
 {% hint style="info" %}
-Attention ! Ces variables sont seulement utilisables pour la configuration des messages d'arrivée, de départ et la configuration des messages du système de ticket.
+Attention ! Ces variables sont seulement utilisables pour la configuration du système de tickets, du système de messages d'arrivée et du système de messages de départ.
 {% endhint %}
 
 | Liste des variables | Description des variables                                                                           |
