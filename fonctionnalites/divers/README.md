@@ -1,8 +1,7 @@
 ---
 description: >-
-  John-Bot comporte plusieurs dizaines de commandes, de ce fait certaines ne
-  sont pas des commandes de modération, information, etc. Elles se retrouvent
-  donc dans cette catégorie
+  Toutes les autres commandes non-listées dans les autres catégories se
+  retrouvent ici, mais ce n'est pas pour autant qu'elles sont inutiles !
 ---
 
 # Divers

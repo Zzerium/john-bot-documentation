@@ -1,7 +1,7 @@
 ---
 description: >-
-  John-Bot propose un système de logs permettant de logger la plupart des
-  événements se produisant sur un serveur
+  Ici, trouvez des explications point par point sur la configuration et
+  l'utilisation du système de logs proposé par John-Bot !
 ---
 
 # Système de Logs

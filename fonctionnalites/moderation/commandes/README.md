@@ -1,5 +1,5 @@
 ---
-description: La liste des commandes servant à la modération.
+description: Liste des commandes de modération
 ---
 
 # Commandes

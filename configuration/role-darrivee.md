@@ -1,7 +1,7 @@
 ---
 description: >-
-  John-Bot propose un système de rôle d'arrivée  permettant de donner un ou
-  plusieurs rôle(s) à chaque nouveau membre
+  Ici, trouvez des explications point par point sur la configuration et
+  l'utilisation du système de rôles d'arrivée proposé par John-Bot !
 ---
 
 # Système de Rôles d'Arrivée

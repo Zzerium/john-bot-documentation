@@ -1,7 +1,7 @@
 ---
 description: >-
-  John-Bot propose un système de tickets permettant aux membres d'un serveur
-  d'avoir un échange avec les membres de l'équipe du serveur
+  Ici, trouvez des explications point par point sur la configuration et
+  l'utilisation du système de tickets proposé par John-Bot !
 ---
 
 # Système de Tickets

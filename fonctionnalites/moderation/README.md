@@ -1,7 +1,7 @@
 ---
 description: >-
-  John-Bot propose un assortiment de commandes servant à modérer votre serveur
-  Discord
+  John-Bot propose un assortiment de commandes de modération servant à modérer
+  votre serveur Discord.
 ---
 
 # Modération

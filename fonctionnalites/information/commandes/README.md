@@ -1,5 +1,5 @@
 ---
-description: La liste des commandes servant à l'information.
+description: Liste des commandes d'information
 ---
 
 # Commandes

@@ -1,7 +1,5 @@
 ---
-description: >-
-  John-Bot est un robot qui touche à la plupart des domaines, même aux mini-jeux
-  (activité)
+description: Avec John-Bot, jouez à des mini-jeux directement via Discord !
 ---
 
 # Activité
