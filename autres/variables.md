@@ -1,7 +1,7 @@
 ---
 description: >-
   Liste des variables disponibles à utiliser dans la configuration du système de
-  tickets, de messages d'arrivée et de messages de départ
+  tickets, du messages d'arrivée et du messages de départ
 ---
 
 # Variables
