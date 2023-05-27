@@ -20,5 +20,5 @@ Attention ! Ces variables sont seulement utilisables pour la configuration du sy
 | {server.name}          | Affiche le nom du serveur.                                                       | John-Bot                                                                                    |
 | {server.id}            | Affiche l'identifiant du serveur.                                                | 012345678912345678                                                                          |
 | {server.icon\_url}     | Affiche l'icône du serveur.                                                      | https://cdn.discordapp.com/icons/959269961572962314/01f8699526e02fd34266e07835bd1de5.webp   |
-| {server.member\_count} | Affiche le nombre de membres que compte le serveur.                              | 10                                                                                          |
-| {ticket\_number}       | Affiche le nombre de tickets ouvert sur le panneaux après l'ouverture du ticket. | 5                                                                                           |
+| {server.member\_count} | Affiche le nombre de membres que compte le serveur.                              | 100                                                                                         |
+| {ticket\_number}       | Affiche le nombre de tickets ouvert sur le panneaux après l'ouverture du ticket. | 10                                                                                          |
