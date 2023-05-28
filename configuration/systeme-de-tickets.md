@@ -10,6 +10,10 @@ description: >-
 La page du système de tickets est actuellement en cours de création, cela prend du temps ! Si vous avez une question sur le système de ticket venez la poser sur le [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
 {% endhint %}
 
+## :question: Explication
+
+Pour utiliser le système de tickets de John-Bot vous devez d'abord créer un/des panneau/x pour ce faire référez vous au guide [**Créer un panneau**](systeme-de-tickets.md#creer-un-panneau) une fois votre/vos panneau/x créé/s, vous devez cette fois-ci, créer un embed qui sera envoyer dans le salon de support et qui contiendra votre/vos différent/s panneau/x, pour ce faire, consultez le guide [**Créer un embed**](systeme-de-tickets.md#creer-un-embed). Vous pouvez aussi créer un modèle "form" qui devra être rempli avant la création de chaque ticket, pour ce faire référez vous au guide [**Créer un modèle**](systeme-de-tickets.md#creer-un-modele) puis [**Modèle lié au panneau**](systeme-de-tickets.md#modele-lie-au-panneau).
+
 ## :rocket: Introduction
 
 Avant de configurer le système de tickets, vous devez vous rendre sur le tableau de bord de votre serveur pour ce faire, exécutez la commande [**/dashboard**](https://johnbot.app/dashboard) dans un salon textuel puis cliquez sur le bouton "Tableau de Bord" en dessous de l'embed. Une fois cela fait, rendez vous dans la catégorie "Tickets" du tableau de bord.
