@@ -273,9 +273,17 @@ Afin de créer un embed, il vous suffit d'appuyez sur la case "Créer un embed" 
 
 ### Configuration de l'embed
 
-#### Salon de l'envoie de l'embed
+#### Salon d'envoie de l'embed
+
+Le salon d'envoie de l'embed, c'est le salon de lequel l'embed support sera envoyé. Afin de le configurer, vous n'avez qu'à cliquer sur le menu de sélection "Salon d'envoi de l'embed" et sélectionner le salon souhaité (voir image #45).&#x20;
+
+<figure><img src="../.gitbook/assets/SendChannelEmbedTickets.png" alt=""><figcaption><p>Image #45</p></figcaption></figure>
 
 #### Panneaux liés à l'embed
+
+Les panneaux liés c'est les boutons qui seront sous l'embed et qui permettront d'interagir avec les panneaux. Pour les configurer, rendez vous dans le menu de sélection "Panneau·x lié·s à l'embed" et sélectionner les panneaux souhaités (voir image #46).&#x20;
+
+<figure><img src="../.gitbook/assets/LinkPanelEmbedTickets.png" alt=""><figcaption><p>Image #46</p></figcaption></figure>
 
 ### Personnalisation de l'embed
 
