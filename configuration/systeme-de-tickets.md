@@ -173,7 +173,7 @@ Afin de configurer les permissions, rendez vous dans la section "Permissions du 
 
 <figure><img src="../.gitbook/assets/PermsSectionTickets.png" alt=""><figcaption><p>Image #25</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/SelectPermsTickets.png" alt=""><figcaption><p>Image #26</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SelectPermsTickets (1).png" alt=""><figcaption><p>Image #26</p></figcaption></figure>
 
 #### Réinitialiser les permissions
 
