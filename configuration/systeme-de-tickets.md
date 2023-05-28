@@ -269,7 +269,7 @@ Pour supprimer un panneau, il vous suffit d'appuyer le sur le bouton "Supprimer"
 
 Afin de créer un embed, il vous suffit d'appuyez sur la case "Créer un embed" (voir image #44).
 
-<figure><img src="../.gitbook/assets/CreateEmbed.png" alt=""><figcaption><p>Image #44</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreateEmbedTickets.png" alt=""><figcaption><p>Image #44</p></figcaption></figure>
 
 ### Configuration de l'embed
 
