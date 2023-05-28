@@ -10,6 +10,10 @@ description: >-
 La page du système de tickets est actuellement en cours de création, cela prend du temps ! Si vous avez une question sur le système de ticket venez la poser sur le [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
 {% endhint %}
 
+## :rocket: Introduction
+
+Avant de configurer le système de tickets, vous devez vous rendre sur le tableau de bord de votre serveur pour ce faire, exécutez la commande [**/dashboard**](https://johnbot.app/dashboard) dans un salon textuel puis cliquez sur le bouton "Tableau de Bord" en dessous de l'embed. Une fois cela fait, rendez vous dans la catégorie "Tickets" du tableau de bord.
+
 ## :earth\_americas: Configuration Globale
 
 ### Logs
@@ -48,7 +52,7 @@ Afin de créer un panneau, il vous suffit d'appuyez sur la case "Créer un panne
 
 ### Options du panneau
 
-#### Configurer un nom pour le panneau
+#### Nom du panneau
 
 {% hint style="info" %}
 Si vous souhaitez avoir des panneaux triés dans un ordre bien précis, indiquez A, B, C etc.. devant les noms de panneau afin qu'ils soient triés selon votre ordre sur l'embed.
@@ -58,29 +62,29 @@ Afin de configurer un nom pour le panneau, rendez vous dans la champ de texte "N
 
 <figure><img src="../.gitbook/assets/CreatePanelNameTickets.png" alt=""><figcaption><p>Image #8</p></figcaption></figure>
 
-#### Configurer un ou plusieurs rôles d'assistance
+#### Rôles de l'équipe d'assistance
 
 Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #9).
 
 <figure><img src="../.gitbook/assets/TeamRolesTickets.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
 
-#### Configurer un ou plusieurs rôles à mentionner&#x20;
+#### Rôles à mentionner lors de l'ouverture&#x20;
 
 Afin de configurer un ou plusieurs rôles à mentionner lors de la création du ticket (max. 3), rendez vous dans la case "Rôle·s à mentionner lors de l'ouverture" puis effectuer les mêmes étapes que dans la partie [**Configurer un ou plusieurs rôles d'assistance**](systeme-de-tickets.md#configurer-un-ou-plusieurs-roles-dassistance).
 
-#### Configurer une catégorie de création
+#### Catégorie de création des tickets
 
 Pour configurer une catégorie de création des tickets rendez vous dans la case "Catégorie de création des tickets" puis cliquez sur le menu de sélection et sélectionnez la catégorie souhaitée (voir image #10).&#x20;
 
 <figure><img src="../.gitbook/assets/SelectCategoryTickets.png" alt=""><figcaption><p>Image #10</p></figcaption></figure>
 
-#### Configurer le nom du ticket
+#### Nom du ticket
 
 Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket" puis indiquez le nom du ticket (voir image #11). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
 
 <figure><img src="../.gitbook/assets/TicketNameTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
 
-#### Configurer un modèle lié au panneau
+#### Modèle lié au panneau
 
 Pour définir un modèle lié au panneau, vous devez d'abord créer un modèle, pour ce faire référez vous au [**guide de création d'un modèle**](systeme-de-tickets.md#creer-un-modele). Une fois votre modèle mis en place, vous n'avez qu'à cliquer sur le menu de sélection et sélectionner le modèle souhaité (voir image #12).&#x20;
 
@@ -116,7 +120,7 @@ Si la gestion du ticket exclusive est activée, lorsqu'un ticket est assigné à
 
 ### Bouton du panneau
 
-#### Configurer le label du bouton
+#### Label du bouton
 
 Le label du bouton, c'est le texte affiché sur ce dernier (voir image #19). Afin de configurer ce court texte, rendez dans le champ de texte "Label du bouton" (voir image #20) puis indiquez le label souhaitez.
 
@@ -124,7 +128,7 @@ Le label du bouton, c'est le texte affiché sur ce dernier (voir image #19). Afi
 
 <figure><img src="../.gitbook/assets/ButtonLabelTextTickets.png" alt=""><figcaption><p>Image #20</p></figcaption></figure>
 
-#### Configurer l'émoji du bouton
+#### Émoji du bouton
 
 {% hint style="info" %}
 Pour utiliser un émoji personnalisé, vous n'avez qu'à indiquer l'identifiant de cet émoji dans le champ de texte.
@@ -159,7 +163,7 @@ Afin de définir la couleur du bouton, rendez vous dans la section "Couleur du b
 * **Supprimer le ticket**\
   Permission de supprimer le ticket. Par défaut : Membres ayant les rôles de l'équipe d'assistance.&#x20;
 
-#### Configurer les rôles des permissions
+#### Rôles des permissions d'interaction
 
 Afin de configurer les permissions, rendez vous dans la section "Permissions du panneau" (voir image #25) puis dans le menu de sélection de la permission souhaité (voir image #26) et sélectionnez tous les rôles souhaités (max. 3)
 
@@ -257,7 +261,29 @@ Pour supprimer un panneau, il vous suffit d'appuyer le sur le bouton "Supprimer"
 
 <figure><img src="../.gitbook/assets/PanelDeleteTickets.png" alt=""><figcaption><p>Image #43</p></figcaption></figure>
 
-## :earth\_americas: Créer un embed
+## :man\_raising\_hand: Créer un embed
+
+Afin de créer un embed, il vous suffit d'appuyez sur la case "Créer un embed" (voir image #44).
+
+<figure><img src="../.gitbook/assets/CreateEmbed.png" alt=""><figcaption><p>Image #44</p></figcaption></figure>
+
+### Configuration de l'embed
+
+#### Salon de l'envoie de l'embed
+
+#### Panneaux liés à l'embed
+
+### Personnalisation de l'embed
+
+#### Style d'affichage des panneaux
+
+#### Titre de l'embed
+
+#### Contenu de l'embed
+
+#### Couleur de l'embed
+
+#### Image de l'embed
 
 ## :earth\_americas: Modifier un embed
 
