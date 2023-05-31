@@ -299,15 +299,53 @@ Le style d'affichage des panneaux va déterminer comment les panneaux seront aff
 
 #### Titre de l'embed
 
+Comme indiqué dans la partie "[**Titre de l'embed d'ouverture**](systeme-de-tickets.md#titre-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", le titre de l'embed c'est ce qui sera affiché en haut de l'embed. Pour le configurer, rendez vous dans le champ de texte "Titre de l'embed" (voir image #50) puis indiquez le titre souhaité.
+
+<figure><img src="../.gitbook/assets/EmbedTitleTickets.png" alt=""><figcaption><p>Image #50</p></figcaption></figure>
+
 #### Contenu de l'embed
+
+Comme indiqué dans la partie "[**Contenu de l'embed d'ouverture**](systeme-de-tickets.md#contenu-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", le contenu de l'embed c'est ce qui sera affiché vers le milieu de l'embed. Pour configurer ce contenu, rendez vous dans la zone de texte "Contenu de l'embed" (voir image #51) puis indiquez le texte souhaité.
+
+<figure><img src="../.gitbook/assets/EmbedContentTickets.png" alt=""><figcaption><p>Image #51</p></figcaption></figure>
 
 #### Couleur de l'embed
 
+Comme indiqué dans la partie "[**Couleur de l'embed d'ouverture**](systeme-de-tickets.md#couleur-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", la couleur de l'embed c'est ce qui sera affiché sur la bordure située sur le côté de l'embed. Pour configurer cette couleur, rendez vous dans le champ de texte "Couleur de l'embed" (voir image #52) puis indiquez la couleur souhaitée.
+
+<figure><img src="../.gitbook/assets/EmbedColorTickets.png" alt=""><figcaption><p>Image #52</p></figcaption></figure>
+
 #### Image de l'embed
 
-## :earth\_americas: Modifier un embed
+Comme indiqué dans la partie "[**Image de l'embed d'ouverture**](systeme-de-tickets.md#image-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", l'image de l'embed c'est ce qui sera affiché en bas de l'embed. Pour configurer cette image, rendez vous dans le champ de texte "Image de l'embed" (voir image #53) puis indiquez le lien de l'image souhaitée.
 
-## :earth\_americas: Supprimer un embed
+<figure><img src="../.gitbook/assets/EmbedImageTickets.png" alt=""><figcaption><p>Image #53</p></figcaption></figure>
+
+## :mailbox\_with\_mail: Envoyer un embed
+
+{% hint style="warning" %}
+Avant d'envoyer l'embed assurez vous d'avoir indiqué un salon d'envoie, si aucun salon n'est défini, consulter [**Comment définir un salon d'envoie**](systeme-de-tickets.md#salon-denvoie-de-lembed).
+{% endhint %}
+
+Pour envoyer un embed dans son salon support, il vous suffit d'appuyer sur le bouton "Envoyer l'embed" à droite de l'embed (voir image #54).
+
+<figure><img src="../.gitbook/assets/SendEmbedTickets.png" alt=""><figcaption><p>Image #54</p></figcaption></figure>
+
+## :pencil2: Modifier un embed
+
+Pour modifier un embed, il vous suffit d'appuyer le sur le bouton "Modifier" à droite de l'embed (voir image #55) puis suivre les mêmes indications que pour la [**création d'un** ](systeme-de-tickets.md#creer-un-panneau)[**embed**](systeme-de-tickets.md#creer-un-embed).
+
+<figure><img src="../.gitbook/assets/EditEmbedTickets.png" alt=""><figcaption><p>Image #54</p></figcaption></figure>
+
+## :wastebasket: Supprimer un embed
+
+{% hint style="danger" %}
+Lorsque vous supprimez un embed, toutes ses données associées seront supprimées et sont irrécupérables.
+{% endhint %}
+
+Pour supprimer un embed, il vous suffit d'appuyer le sur le bouton "Supprimer" à droite de l'embed (voir image #55).
+
+<figure><img src="../.gitbook/assets/DeleteEmbedTickets.png" alt=""><figcaption><p>Image #55</p></figcaption></figure>
 
 ## :earth\_americas: Créer un modèle
 
