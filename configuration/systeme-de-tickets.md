@@ -289,6 +289,14 @@ Les panneaux liés c'est les boutons qui seront sous l'embed et qui permettront 
 
 #### Style d'affichage des panneaux
 
+Le style d'affichage des panneaux va déterminer comment les panneaux seront affichés sur l'embed, en menu de sélection (voir image #47) ou en boutons (voir image #48). Pour configurer ce style d'affichage, rendez vous dans le menu de sélection "Style d'affichage des panneaux" et sélectionner le style voulu (voir image #49).
+
+<figure><img src="../.gitbook/assets/StyleSelectEmbedTickets.png" alt=""><figcaption><p>Image #47</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/StyleButtonEmbedTickets.png" alt=""><figcaption><p>Image #48</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/SelectStyleEmbedPanelsTickets.png" alt=""><figcaption><p>Image #49</p></figcaption></figure>
+
 #### Titre de l'embed
 
 #### Contenu de l'embed
