@@ -48,11 +48,17 @@ Les transcriptions de tickets peuvent s'avérer très pratique, afin des les act
 
 <figure><img src="../.gitbook/assets/EnableDisableTranscriptsTickets.png" alt=""><figcaption><p>Image #6</p></figcaption></figure>
 
+### Rôles d'exclusion
+
+Lorsqu'un membre possède un rôle d'exclusion, il sera impossible pour lui de créer un ticket. Pour les configurer, il vous suffit simplement de choisir un ou plusieurs rôle/s parmi le menu de sélection des rôles d'exclusion (voir image #7), puis, sauvegarder.
+
+<figure><img src="../.gitbook/assets/BlacklistRolesTickets.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+
 ## :jigsaw: Créer un panneau
 
-Afin de créer un panneau, il vous suffit d'appuyez sur la case "Créer un panneau" (voir image #7).
+Afin de créer un panneau, il vous suffit d'appuyez sur la case "Créer un panneau" (voir image #8).
 
-<figure><img src="../.gitbook/assets/CreatePanelTickets.png" alt=""><figcaption><p>Image #7</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatePanelTickets.png" alt=""><figcaption><p>Image #8</p></figcaption></figure>
 
 ### Options du panneau
 
@@ -62,15 +68,15 @@ Afin de créer un panneau, il vous suffit d'appuyez sur la case "Créer un panne
 Si vous souhaitez avoir des panneaux triés dans un ordre bien précis, indiquez A, B, C etc.. devant les noms de panneau afin qu'ils soient triés selon votre ordre sur l'embed.
 {% endhint %}
 
-Afin de configurer un nom pour le panneau, rendez vous dans la champ de texte "Nom du panneau" puis indiquez un nom.
+Afin de configurer un nom pour le panneau, rendez vous dans la champ de texte "Nom du panneau" (voir image #9) puis indiquez un nom.
 
-<figure><img src="../.gitbook/assets/CreatePanelNameTickets.png" alt=""><figcaption><p>Image #8</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreatePanelNameTickets.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
 
 #### Rôles de l'équipe d'assistance
 
-Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #9).
+Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #10).
 
-<figure><img src="../.gitbook/assets/TeamRolesTickets.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TeamRolesTickets.png" alt=""><figcaption><p>Image #10</p></figcaption></figure>
 
 #### Rôles à mentionner lors de l'ouverture&#x20;
 
@@ -78,59 +84,59 @@ Afin de configurer un ou plusieurs rôles à mentionner lors de la création du 
 
 #### Catégorie de création des tickets
 
-Pour configurer une catégorie de création des tickets rendez vous dans la case "Catégorie de création des tickets" puis cliquez sur le menu de sélection et sélectionnez la catégorie souhaitée (voir image #10).&#x20;
+Pour configurer une catégorie de création des tickets rendez vous dans la case "Catégorie de création des tickets" puis cliquez sur le menu de sélection et sélectionnez la catégorie souhaitée (voir image #11).&#x20;
 
-<figure><img src="../.gitbook/assets/SelectCategoryTickets.png" alt=""><figcaption><p>Image #10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SelectCategoryTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
 
 #### Nom du ticket
 
-Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket" puis indiquez le nom du ticket (voir image #11). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
+Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket" puis indiquez le nom du ticket (voir image #12). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
 
-<figure><img src="../.gitbook/assets/TicketNameTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TicketNameTickets.png" alt=""><figcaption><p>Image #12</p></figcaption></figure>
 
 #### Modèle lié au panneau
 
-Pour définir un modèle lié au panneau, vous devez d'abord créer un modèle, pour ce faire référez vous au [**guide de création d'un modèle**](systeme-de-tickets.md#creer-un-modele). Une fois votre modèle mis en place, vous n'avez qu'à cliquer sur le menu de sélection et sélectionner le modèle souhaité (voir image #12).&#x20;
+Pour définir un modèle lié au panneau, vous devez d'abord créer un modèle, pour ce faire référez vous au [**guide de création d'un modèle**](systeme-de-tickets.md#creer-un-modele). Une fois votre modèle mis en place, vous n'avez qu'à cliquer sur le menu de sélection et sélectionner le modèle souhaité (voir image #13).&#x20;
 
-<figure><img src="../.gitbook/assets/SelectModalTickets.png" alt=""><figcaption><p>Image #12</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SelectModalTickets.png" alt=""><figcaption><p>Image #13</p></figcaption></figure>
 
 #### Activer l'assignation des tickets
 
-Afin d'activer l'assignation "claim" des tickets, vous n'avez qu'à cocher la case "Activer l'assignation des tickets" (voir image #13).
+Afin d'activer l'assignation "claim" des tickets, vous n'avez qu'à cocher la case "Activer l'assignation des tickets" (voir image #14).
 
-<figure><img src="../.gitbook/assets/EnableDisableClaimTickets.png" alt=""><figcaption><p>Image #13</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EnableDisableClaimTickets.png" alt=""><figcaption><p>Image #14</p></figcaption></figure>
 
 #### Activer le rappel d'inactivité
 
-Le rappel d'inactivité envoie un message dans un ticket qui n'a pas reçu de nouveau message depuis une semaine ou plus. Ce rappel n'est envoyé qu'une fois par ticket et a pour but de rappeler la présence d'un ticket tombé aux oubliettes (voir image #14). Afin d'activer ce rappel, vous n'avez qu'à cocher la case "Activer le rappel d'inactivité" (voir image #15)
+Le rappel d'inactivité envoie un message dans un ticket qui n'a pas reçu de nouveau message depuis une semaine ou plus. Ce rappel n'est envoyé qu'une fois par ticket et a pour but de rappeler la présence d'un ticket tombé aux oubliettes (voir image #15). Afin d'activer ce rappel, vous n'avez qu'à cocher la case "Activer le rappel d'inactivité" (voir image #16)
 
-<figure><img src="../.gitbook/assets/InacRappelTickets.png" alt=""><figcaption><p>Image #14</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/InacRappelTickets.png" alt=""><figcaption><p>Image #15</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/EnableDisableRmdTickets.png" alt=""><figcaption><p>Image #15</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EnableDisableRmdTickets.png" alt=""><figcaption><p>Image #16</p></figcaption></figure>
 
 #### Activer l'avertissement en message privé
 
-L'avertissement en message privé envoie un message privé au membre ayant créé le ticket, ce message contient quelques informations sur le ticket (voir image #16). Afin d'activer ce rappel, vous n'avez qu'à cocher la case "Activer l'avertissement en message privé" (voir image #17)
+L'avertissement en message privé envoie un message privé au membre ayant créé le ticket, ce message contient quelques informations sur le ticket (voir image #17). Afin d'activer ce rappel, vous n'avez qu'à cocher la case "Activer l'avertissement en message privé" (voir image #18)
 
-<figure><img src="../.gitbook/assets/DmLogsTickets.png" alt=""><figcaption><p>Image #16</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DmLogsTickets.png" alt=""><figcaption><p>Image #17</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/EnableDisableDmLogsTickets.png" alt=""><figcaption><p>Image #17</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EnableDisableDmLogsTickets.png" alt=""><figcaption><p>Image #18</p></figcaption></figure>
 
 #### Activer la gestion du ticket exclusive
 
-Si la gestion du ticket exclusive est activée, lorsqu'un ticket est assigné à un membre de l'équipe d'assistance, il sera impossible pour les autres membres de l'équipe d'écrire dans le ticket, afin de ne pas nuire à la compréhension du ticket. Pour activer la gestion du ticket exclusive, vous n'avez qu'à cocher la case "Activer la gestion du ticket exclusive" (voir image #18)
+Si la gestion du ticket exclusive est activée, lorsqu'un ticket est assigné à un membre de l'équipe d'assistance, il sera impossible pour les autres membres de l'équipe d'écrire dans le ticket, afin de ne pas nuire à la compréhension du ticket. Pour activer la gestion du ticket exclusive, vous n'avez qu'à cocher la case "Activer la gestion du ticket exclusive" (voir image #19)
 
-<figure><img src="../.gitbook/assets/ExclusiveManagementTickets.png" alt=""><figcaption><p>Image #18</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ExclusiveManagementTickets.png" alt=""><figcaption><p>Image #19</p></figcaption></figure>
 
 ### Bouton du panneau
 
 #### Label du bouton
 
-Le label du bouton, c'est le texte affiché sur ce dernier (voir image #19). Afin de configurer ce court texte, rendez dans le champ de texte "Label du bouton" (voir image #20) puis indiquez le label souhaitez.
+Le label du bouton, c'est le texte affiché sur ce dernier (voir image #20). Afin de configurer ce court texte, rendez dans le champ de texte "Label du bouton" (voir image #21) puis indiquez le label souhaitez.
 
-<figure><img src="../.gitbook/assets/ButtonLabelTickets.png" alt=""><figcaption><p>Image #19</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ButtonLabelTickets.png" alt=""><figcaption><p>Image #20</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ButtonLabelTextTickets.png" alt=""><figcaption><p>Image #20</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ButtonLabelTextTickets.png" alt=""><figcaption><p>Image #21</p></figcaption></figure>
 
 #### Émoji du bouton
 
@@ -138,19 +144,19 @@ Le label du bouton, c'est le texte affiché sur ce dernier (voir image #19). Afi
 Pour utiliser un émoji personnalisé, vous n'avez qu'à indiquer l'identifiant de cet émoji dans le champ de texte.
 {% endhint %}
 
-L'émoji du bouton, c'est l'émoji affiché au côté du texte (voir image #21). Pour le configurer, rendez dans le champ de texte "Émoji du bouton" (voir image #22) puis indiquez l'émoji souhaitez, pour s'y faire vous pouvez vous aider du sélecteur d'émoji (voir image #23).
+L'émoji du bouton, c'est l'émoji affiché au côté du texte (voir image #22). Pour le configurer, rendez dans le champ de texte "Émoji du bouton" (voir image #23) puis indiquez l'émoji souhaitez, pour s'y faire vous pouvez vous aider du sélecteur d'émoji (voir image #24).
 
-<figure><img src="../.gitbook/assets/ButtonEmojiTickets.png" alt=""><figcaption><p>Image #21</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ButtonEmojiTickets.png" alt=""><figcaption><p>Image #22</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ButtonEmojiTextTickets.png" alt=""><figcaption><p>Image #22</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ButtonEmojiTextTickets.png" alt=""><figcaption><p>Image #23</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/EmojiSelectTickets.png" alt=""><figcaption><p>Image #23</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EmojiSelectTickets.png" alt=""><figcaption><p>Image #24</p></figcaption></figure>
 
 #### Couleur du bouton
 
-Afin de définir la couleur du bouton, rendez vous dans la section "Couleur du bouton" (voir image #24) puis cliquez sur la couleur souhaitez.
+Afin de définir la couleur du bouton, rendez vous dans la section "Couleur du bouton" (voir image #25) puis cliquez sur la couleur souhaitez.
 
-<figure><img src="../.gitbook/assets/SelectColorsTickets.png" alt=""><figcaption><p>Image #24</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SelectColorsTickets.png" alt=""><figcaption><p>Image #25</p></figcaption></figure>
 
 ### Permissions du panneau
 
@@ -169,17 +175,17 @@ Afin de définir la couleur du bouton, rendez vous dans la section "Couleur du b
 
 #### Rôles des permissions d'interaction
 
-Afin de configurer les permissions, rendez vous dans la section "Permissions du panneau" (voir image #25) puis dans le menu de sélection de la permission souhaité (voir image #26) et sélectionnez tous les rôles souhaités (max. 3)
+Afin de configurer les permissions, rendez vous dans la section "Permissions du panneau" (voir image #26) puis dans le menu de sélection de la permission souhaité (voir image #27) et sélectionnez tous les rôles souhaités (max. 3)
 
-<figure><img src="../.gitbook/assets/PermsSectionTickets.png" alt=""><figcaption><p>Image #25</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PermsSectionTickets.png" alt=""><figcaption><p>Image #26</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/SelectPermsTickets (1).png" alt=""><figcaption><p>Image #26</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SelectPermsTickets (1).png" alt=""><figcaption><p>Image #27</p></figcaption></figure>
 
 #### Réinitialiser les permissions
 
-Si vous souhaitez revoir vos permissions et ne pas perdre de temps à désélectionner tous les rôles un par un, vous n'avez qu'à cliquer sur le bouton "Réinitialiser toutes les permissions" (voir image #27).
+Si vous souhaitez revoir vos permissions et ne pas perdre de temps à désélectionner tous les rôles un par un, vous n'avez qu'à cliquer sur le bouton "Réinitialiser toutes les permissions" (voir image #28).
 
-<figure><img src="../.gitbook/assets/DeletePermsButtonTickets.png" alt=""><figcaption><p>Image #27</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DeletePermsButtonTickets.png" alt=""><figcaption><p>Image #28</p></figcaption></figure>
 
 ### Message d'ouverture
 
@@ -187,17 +193,17 @@ Si vous souhaitez revoir vos permissions et ne pas perdre de temps à désélect
 Tout au long de votre configuration du message d'ouverture, vous pouvez utiliser les variables, disponible dans le [**guide des variables**](../autres/variables.md).
 {% endhint %}
 
-Pour configurer le message d'ouverture, rendez vous dans la section "Message d'ouverture" du sélecteur (voir image #28).
+Pour configurer le message d'ouverture, rendez vous dans la section "Message d'ouverture" du sélecteur (voir image #29).
 
-<figure><img src="../.gitbook/assets/MessageOuvertureSelectionTickets.png" alt=""><figcaption><p>Image #28</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/MessageOuvertureSelectionTickets.png" alt=""><figcaption><p>Image #29</p></figcaption></figure>
 
 #### Contenu du message d'ouverture
 
-Le contenu du message d'ouverture, c'est le texte qui va s'afficher en haut de l'embed d'ouverture (voir image #29). Afin de le configurer, rendez vous dans la zone de texte "Contenu du message d'ouverture" (voir image #30), puis indiquez le message d'ouverture souhaité.
+Le contenu du message d'ouverture, c'est le texte qui va s'afficher en haut de l'embed d'ouverture (voir image #30). Afin de le configurer, rendez vous dans la zone de texte "Contenu du message d'ouverture" (voir image #31), puis indiquez le message d'ouverture souhaité.
 
-<figure><img src="../.gitbook/assets/ContentMessageTickets.png" alt=""><figcaption><p>Image #29</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ContentMessageTickets.png" alt=""><figcaption><p>Image #30</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ZoneTextContentMessageOuvertureTickets.png" alt=""><figcaption><p>Image #30</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ZoneTextContentMessageOuvertureTickets.png" alt=""><figcaption><p>Image #31</p></figcaption></figure>
 
 ### Embed d'ouverture
 
@@ -205,55 +211,55 @@ Le contenu du message d'ouverture, c'est le texte qui va s'afficher en haut de l
 Tout au long de votre configuration de l'embed d'ouverture, vous pouvez utiliser les variables, disponible dans le [**guide des variables**](../autres/variables.md).
 {% endhint %}
 
-Pour configurer l'embed d'ouverture, rendez vous dans la section "Embed d'ouverture" du sélecteur (voir image #31).
+Pour configurer l'embed d'ouverture, rendez vous dans la section "Embed d'ouverture" du sélecteur (voir image #32).
 
-<figure><img src="../.gitbook/assets/EmbedOuvertureSelectionTickets.png" alt=""><figcaption><p>Image #31</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EmbedOuvertureSelectionTickets.png" alt=""><figcaption><p>Image #32</p></figcaption></figure>
 
 #### Activer l'embed d'ouverture
 
-Afin d'activer l'embed d'ouverture, vous n'avez qu'à cocher la case "Activer l'embed d'ouverture" (voir image #32).
+Afin d'activer l'embed d'ouverture, vous n'avez qu'à cocher la case "Activer l'embed d'ouverture" (voir image #33).
 
-<figure><img src="../.gitbook/assets/EnableDisableOpenEmbedTickets.png" alt=""><figcaption><p>Image #32</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EnableDisableOpenEmbedTickets.png" alt=""><figcaption><p>Image #33</p></figcaption></figure>
 
 #### Titre de l'embed d'ouverture
 
-Le titre de l'embed d'ouverture, c'est le titre qui va s'afficher en premier dans l'embed d'ouverture (voir image #33). Afin de le configurer, rendez vous dans le champ de texte "Titre de l'embed d'ouverture" (voir image#34) puis indiquez le titre souhaité.
+Le titre de l'embed d'ouverture, c'est le titre qui va s'afficher en premier dans l'embed d'ouverture (voir image #34). Afin de le configurer, rendez vous dans le champ de texte "Titre de l'embed d'ouverture" (voir image#35) puis indiquez le titre souhaité.
 
-<figure><img src="../.gitbook/assets/TitleEmbedOpenTickets.png" alt=""><figcaption><p>Image #33</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TitleEmbedOpenTickets.png" alt=""><figcaption><p>Image #34</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/EmbedTitleOpenTickets.png" alt=""><figcaption><p>Image #34</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EmbedTitleOpenTickets.png" alt=""><figcaption><p>Image #35</p></figcaption></figure>
 
 #### Contenu de l'embed d'ouverture
 
-Le contenu de l'embed d'ouverture, c'est la description de l'embed qui va s'afficher dans le milieu dans l'embed d'ouverture (voir image #35). Afin de configurer le contenu de l'embed, rendez vous dans la zone de texte "Contenu de l'embed d'ouverture" (voir image #36) puis indiquez le contenu souhaité.
+Le contenu de l'embed d'ouverture, c'est la description de l'embed qui va s'afficher dans le milieu dans l'embed d'ouverture (voir image #36). Afin de configurer le contenu de l'embed, rendez vous dans la zone de texte "Contenu de l'embed d'ouverture" (voir image #36) puis indiquez le contenu souhaité.
 
-<figure><img src="../.gitbook/assets/ContentEmbedOpenTickets.png" alt=""><figcaption><p>Image #35</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ContentEmbedOpenTickets.png" alt=""><figcaption><p>Image #36</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ContentTextEmbedOpenTickets.png" alt=""><figcaption><p>Image #36</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ContentTextEmbedOpenTickets.png" alt=""><figcaption><p>Image #37</p></figcaption></figure>
 
 #### Couleur de l'embed d'ouverture
 
-La couleur de l'embed d'ouverture, c'est la petite bordure à gauche de l'embed d'ouverture (voir image #37). Pour configurer cette couleur, rendez vous dans la section "Couleur de l'embed d'ouverture" puis, servez vous soit des petites pastilles de couleur (voir image #38) ou encore du sélecteur de couleur (voir image #39).
+La couleur de l'embed d'ouverture, c'est la petite bordure à gauche de l'embed d'ouverture (voir image #38). Pour configurer cette couleur, rendez vous dans la section "Couleur de l'embed d'ouverture" puis, servez vous soit des petites pastilles de couleur (voir image #39) ou encore du sélecteur de couleur (voir image #40).
 
-<figure><img src="../.gitbook/assets/ColorEmbedOpenTickets.png" alt=""><figcaption><p>Image #37</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ColorEmbedOpenTickets.png" alt=""><figcaption><p>Image #38</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ColorBasicOpenEmbedTickets.png" alt=""><figcaption><p>Image #38</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ColorBasicOpenEmbedTickets.png" alt=""><figcaption><p>Image #39</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ColorSelectOpenEmbedTickets.png" alt=""><figcaption><p>Image #39</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ColorSelectOpenEmbedTickets.png" alt=""><figcaption><p>Image #40</p></figcaption></figure>
 
 #### Image de l'embed d'ouverture
 
-L'image l'embed d'ouverture, c'est la bannière de l'embed qui va s'afficher en bas de l'embed d'ouverture (voir image #40). Afin de configurer cette image, rendez vous dans le champ de texte "Lien de l'image de l'embed d'ouverture" (voir image #41) puis indiquez le lien de l'image souhaité.
+L'image l'embed d'ouverture, c'est la bannière de l'embed qui va s'afficher en bas de l'embed d'ouverture (voir image #41). Afin de configurer cette image, rendez vous dans le champ de texte "Lien de l'image de l'embed d'ouverture" (voir image #42) puis indiquez le lien de l'image souhaité.
 
-<figure><img src="../.gitbook/assets/ImageEmbedOpenTickets.png" alt=""><figcaption><p>Image #40</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ImageEmbedOpenTickets.png" alt=""><figcaption><p>Image #41</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/OpenEmbedImageTickets.png" alt=""><figcaption><p>Image #41</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OpenEmbedImageTickets.png" alt=""><figcaption><p>Image #42</p></figcaption></figure>
 
 ## :pencil2: Modifier un panneau
 
-Pour modifier un panneau, il vous suffit d'appuyer le sur le bouton "Modifier" à droite du panneau (voir image #42) puis suivre les mêmes indications que pour la [**création d'un panneau**](systeme-de-tickets.md#creer-un-panneau).
+Pour modifier un panneau, il vous suffit d'appuyer le sur le bouton "Modifier" à droite du panneau (voir image #43) puis suivre les mêmes indications que pour la [**création d'un panneau**](systeme-de-tickets.md#creer-un-panneau).
 
-<figure><img src="../.gitbook/assets/PanelEditTickets.png" alt=""><figcaption><p>Image #42</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PanelEditTickets.png" alt=""><figcaption><p>Image #43</p></figcaption></figure>
 
 ## :wastebasket: Supprimer un panneau
 
@@ -261,65 +267,65 @@ Pour modifier un panneau, il vous suffit d'appuyer le sur le bouton "Modifier" �
 Lorsque vous supprimez un panneau, toutes ses données associées seront supprimées et sont irrécupérables.
 {% endhint %}
 
-Pour supprimer un panneau, il vous suffit d'appuyer le sur le bouton "Supprimer" à droite du panneau (voir image #43).
+Pour supprimer un panneau, il vous suffit d'appuyer le sur le bouton "Supprimer" à droite du panneau (voir image #44).
 
-<figure><img src="../.gitbook/assets/PanelDeleteTickets.png" alt=""><figcaption><p>Image #43</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PanelDeleteTickets.png" alt=""><figcaption><p>Image #44</p></figcaption></figure>
 
 ## :man\_raising\_hand: Créer un embed
 
-Afin de créer un embed, il vous suffit d'appuyez sur la case "Créer un embed" (voir image #44).
+Afin de créer un embed, il vous suffit d'appuyez sur la case "Créer un embed" (voir image #45).
 
-<figure><img src="../.gitbook/assets/CreateEmbedTickets.png" alt=""><figcaption><p>Image #44</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CreateEmbedTickets.png" alt=""><figcaption><p>Image #45</p></figcaption></figure>
 
 ### Configuration de l'embed
 
 #### Salon d'envoie de l'embed
 
-Le salon d'envoie de l'embed, c'est le salon de lequel l'embed support sera envoyé. Afin de le configurer, vous n'avez qu'à cliquer sur le menu de sélection "Salon d'envoi de l'embed" et sélectionner le salon souhaité (voir image #45).&#x20;
+Le salon d'envoie de l'embed, c'est le salon de lequel l'embed support sera envoyé. Afin de le configurer, vous n'avez qu'à cliquer sur le menu de sélection "Salon d'envoi de l'embed" et sélectionner le salon souhaité (voir image #46).&#x20;
 
-<figure><img src="../.gitbook/assets/SendChannelEmbedTickets.png" alt=""><figcaption><p>Image #45</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SendChannelEmbedTickets.png" alt=""><figcaption><p>Image #46</p></figcaption></figure>
 
 #### Panneaux liés à l'embed
 
-Les panneaux liés c'est les boutons qui seront sous l'embed et qui permettront d'interagir avec les panneaux. Pour les configurer, rendez vous dans le menu de sélection "Panneau·x lié·s à l'embed" et sélectionner les panneaux souhaités (voir image #46).&#x20;
+Les panneaux liés c'est les boutons qui seront sous l'embed et qui permettront d'interagir avec les panneaux. Pour les configurer, rendez vous dans le menu de sélection "Panneau·x lié·s à l'embed" et sélectionner les panneaux souhaités (voir image #47).&#x20;
 
-<figure><img src="../.gitbook/assets/LinkPanelEmbedTickets.png" alt=""><figcaption><p>Image #46</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LinkPanelEmbedTickets.png" alt=""><figcaption><p>Image #47</p></figcaption></figure>
 
 ### Personnalisation de l'embed
 
 #### Style d'affichage des panneaux
 
-Le style d'affichage des panneaux va déterminer comment les panneaux seront affichés sur l'embed, en menu de sélection (voir image #47) ou en boutons (voir image #48). Pour configurer ce style d'affichage, rendez vous dans le menu de sélection "Style d'affichage des panneaux" et sélectionner le style voulu (voir image #49).
+Le style d'affichage des panneaux va déterminer comment les panneaux seront affichés sur l'embed, en menu de sélection (voir image #48) ou en boutons (voir image #49). Pour configurer ce style d'affichage, rendez vous dans le menu de sélection "Style d'affichage des panneaux" et sélectionner le style voulu (voir image #50).
 
-<figure><img src="../.gitbook/assets/StyleSelectEmbedTickets.png" alt=""><figcaption><p>Image #47</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/StyleSelectEmbedTickets.png" alt=""><figcaption><p>Image #48</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/StyleButtonEmbedTickets.png" alt=""><figcaption><p>Image #48</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/StyleButtonEmbedTickets.png" alt=""><figcaption><p>Image #49</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/SelectStyleEmbedPanelsTickets.png" alt=""><figcaption><p>Image #49</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SelectStyleEmbedPanelsTickets.png" alt=""><figcaption><p>Image #50</p></figcaption></figure>
 
 #### Titre de l'embed
 
-Comme indiqué dans la partie "[**Titre de l'embed d'ouverture**](systeme-de-tickets.md#titre-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", le titre de l'embed c'est ce qui sera affiché en haut de l'embed. Pour le configurer, rendez vous dans le champ de texte "Titre de l'embed" (voir image #50) puis indiquez le titre souhaité.
+Comme indiqué dans la partie "[**Titre de l'embed d'ouverture**](systeme-de-tickets.md#titre-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", le titre de l'embed c'est ce qui sera affiché en haut de l'embed. Pour le configurer, rendez vous dans le champ de texte "Titre de l'embed" (voir image #51) puis indiquez le titre souhaité.
 
-<figure><img src="../.gitbook/assets/EmbedTitleTickets.png" alt=""><figcaption><p>Image #50</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EmbedTitleTickets.png" alt=""><figcaption><p>Image #51</p></figcaption></figure>
 
 #### Contenu de l'embed
 
-Comme indiqué dans la partie "[**Contenu de l'embed d'ouverture**](systeme-de-tickets.md#contenu-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", le contenu de l'embed c'est ce qui sera affiché vers le milieu de l'embed. Pour configurer ce contenu, rendez vous dans la zone de texte "Contenu de l'embed" (voir image #51) puis indiquez le texte souhaité.
+Comme indiqué dans la partie "[**Contenu de l'embed d'ouverture**](systeme-de-tickets.md#contenu-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", le contenu de l'embed c'est ce qui sera affiché vers le milieu de l'embed. Pour configurer ce contenu, rendez vous dans la zone de texte "Contenu de l'embed" (voir image #52) puis indiquez le texte souhaité.
 
-<figure><img src="../.gitbook/assets/EmbedContentTickets.png" alt=""><figcaption><p>Image #51</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EmbedContentTickets.png" alt=""><figcaption><p>Image #52</p></figcaption></figure>
 
 #### Couleur de l'embed
 
-Comme indiqué dans la partie "[**Couleur de l'embed d'ouverture**](systeme-de-tickets.md#couleur-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", la couleur de l'embed c'est ce qui sera affiché sur la bordure située sur le côté de l'embed. Pour configurer cette couleur, rendez vous dans le champ de texte "Couleur de l'embed" (voir image #52) puis indiquez la couleur souhaitée.
+Comme indiqué dans la partie "[**Couleur de l'embed d'ouverture**](systeme-de-tickets.md#couleur-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", la couleur de l'embed c'est ce qui sera affiché sur la bordure située sur le côté de l'embed. Pour configurer cette couleur, rendez vous dans le champ de texte "Couleur de l'embed" (voir image #53) puis indiquez la couleur souhaitée.
 
-<figure><img src="../.gitbook/assets/EmbedColorTickets.png" alt=""><figcaption><p>Image #52</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EmbedColorTickets.png" alt=""><figcaption><p>Image #53</p></figcaption></figure>
 
 #### Image de l'embed
 
-Comme indiqué dans la partie "[**Image de l'embed d'ouverture**](systeme-de-tickets.md#image-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", l'image de l'embed c'est ce qui sera affiché en bas de l'embed. Pour configurer cette image, rendez vous dans le champ de texte "Image de l'embed" (voir image #53) puis indiquez le lien de l'image souhaitée.
+Comme indiqué dans la partie "[**Image de l'embed d'ouverture**](systeme-de-tickets.md#image-de-lembed-douverture)" de la section "[**Embed d'ouverture**](systeme-de-tickets.md#embed-douverture)", l'image de l'embed c'est ce qui sera affiché en bas de l'embed. Pour configurer cette image, rendez vous dans le champ de texte "Image de l'embed" (voir image #54) puis indiquez le lien de l'image souhaitée.
 
-<figure><img src="../.gitbook/assets/EmbedImageTickets.png" alt=""><figcaption><p>Image #53</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EmbedImageTickets.png" alt=""><figcaption><p>Image #54</p></figcaption></figure>
 
 ## :mailbox\_with\_mail: Envoyer un embed
 
@@ -327,15 +333,15 @@ Comme indiqué dans la partie "[**Image de l'embed d'ouverture**](systeme-de-tic
 Avant d'envoyer l'embed assurez vous d'avoir indiqué un salon d'envoie, si aucun salon n'est défini, consulter [**Comment définir un salon d'envoie**](systeme-de-tickets.md#salon-denvoie-de-lembed).
 {% endhint %}
 
-Pour envoyer un embed dans son salon support, il vous suffit d'appuyer sur le bouton "Envoyer l'embed" à droite de l'embed (voir image #54).
+Pour envoyer un embed dans son salon support, il vous suffit d'appuyer sur le bouton "Envoyer l'embed" à droite de l'embed (voir image #55).
 
-<figure><img src="../.gitbook/assets/SendEmbedTickets.png" alt=""><figcaption><p>Image #54</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SendEmbedTickets.png" alt=""><figcaption><p>Image #55</p></figcaption></figure>
 
 ## :pencil2: Modifier un embed
 
-Pour modifier un embed, il vous suffit d'appuyer le sur le bouton "Modifier" à droite de l'embed (voir image #55) puis suivre les mêmes indications que pour la [**création d'un** ](systeme-de-tickets.md#creer-un-panneau)[**embed**](systeme-de-tickets.md#creer-un-embed).
+Pour modifier un embed, il vous suffit d'appuyer le sur le bouton "Modifier" à droite de l'embed (voir image #56) puis suivre les mêmes indications que pour la [**création d'un** ](systeme-de-tickets.md#creer-un-panneau)[**embed**](systeme-de-tickets.md#creer-un-embed).
 
-<figure><img src="../.gitbook/assets/EditEmbedTickets.png" alt=""><figcaption><p>Image #54</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/EditEmbedTickets.png" alt=""><figcaption><p>Image #56</p></figcaption></figure>
 
 ## :wastebasket: Supprimer un embed
 
@@ -343,9 +349,9 @@ Pour modifier un embed, il vous suffit d'appuyer le sur le bouton "Modifier" à 
 Lorsque vous supprimez un embed, toutes ses données associées seront supprimées et sont irrécupérables.
 {% endhint %}
 
-Pour supprimer un embed, il vous suffit d'appuyer le sur le bouton "Supprimer" à droite de l'embed (voir image #55).
+Pour supprimer un embed, il vous suffit d'appuyer le sur le bouton "Supprimer" à droite de l'embed (voir image #57).
 
-<figure><img src="../.gitbook/assets/DeleteEmbedTickets.png" alt=""><figcaption><p>Image #55</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DeleteEmbedTickets.png" alt=""><figcaption><p>Image #57</p></figcaption></figure>
 
 ## :earth\_americas: Créer un modèle
 
