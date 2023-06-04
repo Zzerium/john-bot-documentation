@@ -60,7 +60,7 @@ Afin de créer un panneau, il vous suffit d'appuyez sur la case "Créer un panne
 
 <figure><img src="../.gitbook/assets/CreatePanelTickets.png" alt=""><figcaption><p>Image #8</p></figcaption></figure>
 
-### Options du panneau
+### Configuration du panneau
 
 #### Nom du panneau
 
@@ -72,11 +72,19 @@ Afin de configurer un nom pour le panneau, rendez vous dans la champ de texte "N
 
 <figure><img src="../.gitbook/assets/CreatePanelNameTickets.png" alt=""><figcaption><p>Image #9</p></figcaption></figure>
 
+#### Nom du ticket
+
+Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket" puis indiquez le nom du ticket (voir image #10). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
+
+<figure><img src="../.gitbook/assets/TicketNameTickets.png" alt=""><figcaption><p>Image #10</p></figcaption></figure>
+
 #### Rôles de l'équipe d'assistance
 
-Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #10).
+Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #11).
 
-<figure><img src="../.gitbook/assets/TeamRolesTickets.png" alt=""><figcaption><p>Image #10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TeamRolesTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
+
+#### Rôle·s de l'équipe responsable
 
 #### Rôles à mentionner lors de l'ouverture&#x20;
 
@@ -84,21 +92,17 @@ Afin de configurer un ou plusieurs rôles à mentionner lors de la création du 
 
 #### Catégorie de création des tickets
 
-Pour configurer une catégorie de création des tickets rendez vous dans la case "Catégorie de création des tickets" puis cliquez sur le menu de sélection et sélectionnez la catégorie souhaitée (voir image #11).&#x20;
+Pour configurer une catégorie de création des tickets rendez vous dans la case "Catégorie de création des tickets" puis cliquez sur le menu de sélection et sélectionnez la catégorie souhaitée (voir image #12).&#x20;
 
-<figure><img src="../.gitbook/assets/SelectCategoryTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
-
-#### Nom du ticket
-
-Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la champ de texte "Nom du ticket" puis indiquez le nom du ticket (voir image #12). De plus, lors de la configuration du nom du ticket, il est conseiller de se référer au [**guide des variables**](../autres/variables.md) afin d'utiliser les variables lors de votre configuration.
-
-<figure><img src="../.gitbook/assets/TicketNameTickets.png" alt=""><figcaption><p>Image #12</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/SelectCategoryTickets.png" alt=""><figcaption><p>Image #12</p></figcaption></figure>
 
 #### Modèle lié au panneau
 
 Pour définir un modèle lié au panneau, vous devez d'abord créer un modèle, pour ce faire référez vous au [**guide de création d'un modèle**](systeme-de-tickets.md#creer-un-modele). Une fois votre modèle mis en place, vous n'avez qu'à cliquer sur le menu de sélection et sélectionner le modèle souhaité (voir image #13).&#x20;
 
 <figure><img src="../.gitbook/assets/SelectModalTickets.png" alt=""><figcaption><p>Image #13</p></figcaption></figure>
+
+### Options du panneau
 
 #### Activer l'assignation des tickets
 
