@@ -145,7 +145,7 @@ Le label du bouton, c'est le texte affiché sur ce dernier (voir image #20). Afi
 #### Émoji du bouton
 
 {% hint style="info" %}
-Pour utiliser un émoji personnalisé, vous n'avez qu'à indiquer l'identifiant de cet émoji dans le champ de texte.
+Pour utiliser un émoji personnalisé, vous n'avez qu'à indiquer l'identifiant de cet émoji dans le champ de texte. (<:JohnBot:1011466005626748928> ou 1011466005626748928)
 {% endhint %}
 
 L'émoji du bouton, c'est l'émoji affiché au côté du texte (voir image #22). Pour le configurer, rendez dans le champ de texte "Émoji du bouton" (voir image #23) puis indiquez l'émoji souhaitez, pour s'y faire vous pouvez vous aider du sélecteur d'émoji (voir image #24).
