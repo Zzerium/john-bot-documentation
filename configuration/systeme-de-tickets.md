@@ -80,15 +80,17 @@ Afin de définir un nom pour le ticket lors de sa création, rendez vous dans la
 
 #### Rôles de l'équipe d'assistance
 
-Pour configurer un ou plusieurs rôles d'assistance (max. 5), rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #11).
+Pour configurer un ou plusieurs rôles d'assistance, rendez vous dans la case "Rôle·s de l'équipe d'assistance" puis cliquez sur le menu de sélection et sélectionnez tous les rôles de l'équipe d'assistance souhaités (voir image #11).
 
 <figure><img src="../.gitbook/assets/TeamRolesTickets.png" alt=""><figcaption><p>Image #11</p></figcaption></figure>
 
 #### Rôle·s de l'équipe responsable
 
+Les membres ayant un rôle de l'équipe responsable sont considérés comme responsable de l'équipe et ont donc un passe droit sur certaines options comme "La gestion du ticket exclusive du ticket". Pour configurer un ou plusieurs rôles d'assistance, rendez vous dans la case "Rôle·s de l'équipe responsable" puis effectuer les mêmes étapes que dans la partie [**Configurer un ou plusieurs rôles d'assistance**](systeme-de-tickets.md#roles-de-lequipe-dassistance).
+
 #### Rôles à mentionner lors de l'ouverture&#x20;
 
-Afin de configurer un ou plusieurs rôles à mentionner lors de la création du ticket (max. 3), rendez vous dans la case "Rôle·s à mentionner lors de l'ouverture" puis effectuer les mêmes étapes que dans la partie [**Configurer un ou plusieurs rôles d'assistance**](systeme-de-tickets.md#configurer-un-ou-plusieurs-roles-dassistance).
+Afin de configurer un ou plusieurs rôles à mentionner lors de la création du ticket, rendez vous dans la case "Rôle·s à mentionner lors de l'ouverture" puis effectuer les mêmes étapes que dans la partie [**Configurer un ou plusieurs rôles d'assistance**](systeme-de-tickets.md#roles-de-lequipe-dassistance).
 
 #### Catégorie de création des tickets
 
@@ -179,7 +181,7 @@ Afin de définir la couleur du bouton, rendez vous dans la section "Couleur du b
 
 #### Rôles des permissions d'interaction
 
-Afin de configurer les permissions, rendez vous dans la section "Permissions du panneau" (voir image #26) puis dans le menu de sélection de la permission souhaité (voir image #27) et sélectionnez tous les rôles souhaités (max. 3)
+Afin de configurer les permissions, rendez vous dans la section "Permissions du panneau" (voir image #26) puis dans le menu de sélection de la permission souhaité (voir image #27) et sélectionnez tous les rôles souhaités.
 
 <figure><img src="../.gitbook/assets/PermsSectionTickets.png" alt=""><figcaption><p>Image #26</p></figcaption></figure>
 
