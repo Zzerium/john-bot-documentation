@@ -144,6 +144,14 @@ Le label du bouton, c'est le texte affiché sur ce dernier (voir image #20). Afi
 
 <figure><img src="../.gitbook/assets/ButtonLabelTextTickets.png" alt=""><figcaption><p>Image #21</p></figcaption></figure>
 
+#### Description du bouton
+
+La description du bouton, c'est le texte affiché sous le label de l'option dans un menu de sélection (voir image #20). Afin de configurer ce court texte, rendez dans le champ de texte "Description du bouton" (voir image #21) puis indiquez la description souhaitez.
+
+<figure><img src="../.gitbook/assets/DescriptionButtonTickets.png" alt=""><figcaption><p> Image #20</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/DescriptionButtonInputTickets.png" alt=""><figcaption><p>Image #21</p></figcaption></figure>
+
 #### Émoji du bouton
 
 {% hint style="info" %}
