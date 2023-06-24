@@ -8,13 +8,13 @@ description: >-
 
 ## Variables de l'Utilisateur
 
-| Variable           | Description                                         | Exemple                                                                                     |
-| ------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| {user}             | Affiche le nom unique (ou le tag) de l'utilisateur. | exempleutilisateur (Utilisateur#0001)                                                       |
-| {user.name}        | Affiche le nom d'affichage de l'utilisateur.        | Utilisateur                                                                                 |
-| {user.mention}     | Affiche la mention de l'utilisateur.                | @Utilisateur                                                                                |
-| {user.id}          | Affiche l'identifiant de l'utilisateur.             | 982054684481167410                                                                          |
-| {user.avatar\_url} | Affiche le lien de l'avatar de l'utilisateur.       | https://cdn.discordapp.com/avatars/958547309728256081/c83207e3ef95fb6c9198562d0d04714f.webp |
+| Variable           | Description                                                   | Exemple                                                                                     |
+| ------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| {user}             | Affiche le nom unique (ou le nom et le tag) de l'utilisateur. | exempleutilisateur (Utilisateur#0001)                                                       |
+| {user.name}        | Affiche le nom d'affichage de l'utilisateur.                  | Utilisateur                                                                                 |
+| {user.mention}     | Affiche la mention de l'utilisateur.                          | @Utilisateur                                                                                |
+| {user.id}          | Affiche l'identifiant de l'utilisateur.                       | 982054684481167410                                                                          |
+| {user.avatar\_url} | Affiche le lien de l'avatar de l'utilisateur.                 | https://cdn.discordapp.com/avatars/958547309728256081/c83207e3ef95fb6c9198562d0d04714f.webp |
 
 ## Variables du Serveur
 
