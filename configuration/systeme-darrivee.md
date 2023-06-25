@@ -6,6 +6,10 @@ description: >-
 
 # Messages d'Arrivée
 
+{% hint style="danger" %}
+La page du messages d'arrivée est obsolète ! Si vous avez des questions ou besoin d'aide dans votre configuration des messages d'arrivée, faites nous en part sur le  [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
+{% endhint %}
+
 ## :wave: Mise en place du système de messages d'arrivée
 
 Pour débuter la configuration du système d'arrivée, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel join` dans un salon textuel afin d'avoir accès au panel de configuration du système d'arrivée.\

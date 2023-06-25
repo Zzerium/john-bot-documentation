@@ -10,7 +10,7 @@ description: >-
 
 | Variable           | Description                                                   | Exemple                                                                                     |
 | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| {user}             | Affiche le nom unique (ou le nom et le tag) de l'utilisateur. | exempleutilisateur (Utilisateur#0001)                                                       |
+| {user}             | Affiche le nom unique (ou le nom et le tag) de l'utilisateur. | exempleutilisateur (ou Utilisateur#0001)                                                    |
 | {user.name}        | Affiche le nom d'affichage de l'utilisateur.                  | Utilisateur                                                                                 |
 | {user.mention}     | Affiche la mention de l'utilisateur.                          | @Utilisateur                                                                                |
 | {user.id}          | Affiche l'identifiant de l'utilisateur.                       | 982054684481167410                                                                          |

@@ -6,6 +6,10 @@ description: >-
 
 # Système de Logs
 
+{% hint style="danger" %}
+La page du système de logs est obsolète ! Si vous avez des questions ou besoin d'aide dans votre configuration du système de logs, faites nous en part sur le  [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
+{% endhint %}
+
 {% hint style="warning" %}
 La page du système de logs est actuellement en cours de création, cela prend du temps ! Si vous avez une question sur le système de logs venez la poser sur le [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
 {% endhint %}

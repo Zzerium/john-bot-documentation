@@ -6,6 +6,10 @@ description: >-
 
 # Messages de Départ
 
+{% hint style="danger" %}
+La page du messages de départ est obsolète ! Si vous avez des questions ou besoin d'aide dans votre configuration des messages de départ, faites nous en part sur le  [**serveur support de John-Bot**](https://discord.com/invite/abePbS7QKY) !
+{% endhint %}
+
 ## :wave: Mise en place du système de messages de départ
 
 Pour débuter la configuration du système de départ, vous devez ajouter John-Bot à votre serveur pour ce faire consultez le [**guide d'ajout de John-Bot**](../#ajouter-john-bot-a-votre-serveur-discord), une fois cela fait exécutez la commande `/panel leave` dans un salon textuel afin d'avoir accès au panel de configuration du système de départ.\
