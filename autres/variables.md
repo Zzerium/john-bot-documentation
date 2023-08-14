@@ -30,3 +30,10 @@ description: >-
 | Variable               | Description                                                                      | Exemple |
 | ---------------------- | -------------------------------------------------------------------------------- | ------- |
 | {panel.ticket\_number} | Affiche le nombre de tickets ouverts sur le panneau après l'ouverture du ticket. | 10      |
+
+## Variable de Niveaux
+
+| Variable      | Description                                                                     | Exemple        |
+| ------------- | ------------------------------------------------------------------------------- | -------------- |
+| {level}       | Affiche le nouveau niveau du membre lors de son passe d'un niveau à l'autre.    | 5              |
+| {role.reward} | Affiche le rôle débloqué par le membre lors de son passe d'un niveau à l'autre. | Super écrivain |
