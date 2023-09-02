@@ -47,6 +47,7 @@
 
 ## Configuration
 
+* [Système de Niveaux](configuration/systeme-de-niveaux.md)
 * [Système de Tickets](configuration/systeme-de-tickets.md)
 * [Messages d'Arrivée](configuration/systeme-darrivee.md)
 * [Messages de Départ](configuration/systeme-de-depart.md)
