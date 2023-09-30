@@ -36,4 +36,4 @@ description: >-
 | Variable      | Description                                                                     | Exemple        |
 | ------------- | ------------------------------------------------------------------------------- | -------------- |
 | {level}       | Affiche le nouveau niveau du membre lors de son passe d'un niveau à l'autre.    | 5              |
-| {role.reward} | Affiche le rôle débloqué par le membre lors de son passe d'un niveau à l'autre. | Super écrivain |
+| {reward.role} | Affiche le rôle débloqué par le membre lors de son passe d'un niveau à l'autre. | Super écrivain |
