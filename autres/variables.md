@@ -27,9 +27,9 @@ description: >-
 
 ## Variable du Panneau
 
-| Variable               | Description                                                                      | Exemple |
-| ---------------------- | -------------------------------------------------------------------------------- | ------- |
-| {panel.ticket\_number} | Affiche le nombre de tickets ouverts sur le panneau après l'ouverture du ticket. | 10      |
+| Variable               | Description                 | Exemple |
+| ---------------------- | --------------------------- | ------- |
+| {panel.ticket\_number} | Affiche le numéro du ticket | 10      |
 
 ## Variable de Niveaux
 
